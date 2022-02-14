@@ -7,6 +7,12 @@ body {
 	font-weight: normal;
 	font-style: normal
 }
+.logo-img a img{
+	height: 90px;
+}
+.single-footer-widget a img{
+	height: 100px;
+}
 
 .img {
 	max-width: 100%;
@@ -430,6 +436,10 @@ h3 {
 		padding: 10px 0;
 		height: 60px
 	}
+	.logo-img a img{
+		height: 60px;
+		padding-bottom: 10px;
+	}
 }
 
 @media (min-width:768px) and (max-width:991px) {
@@ -437,18 +447,26 @@ h3 {
 		padding: 10px 0;
 		height: 60px
 	}
+	.logo-img a img{
+		height: 60px;
+		padding-bottom: 10px;
+	}
 }
 
 @media (max-width:767px) {
 	.header-area .main-header-area .logo-img {
 		position: absolute;
 		display: inline-block;
-		text-align: center;
+		/* text-align: center; */
 		margin: 3px auto;
 		z-index: 999;
 		width: 140px;
 		left: 0;
 		right: 0
+	}
+	.logo-img a img{
+		height: 60px;
+		padding-bottom: 10px;
 	}
 }
 
@@ -462,6 +480,10 @@ h3 {
 		width: 140px;
 		left: 0;
 		right: 0
+	}
+	.logo-img a img{
+		height: 60px;
+		padding-bottom: 10px;
 	}
 }
 
@@ -485,6 +507,10 @@ h3 {
 	.header-area .main-header-area .main-menu ul li a {
 		padding: 35px 8px 35px 8px
 	}
+	.logo-img a img{
+		height: 60px;
+		padding-bottom: 10px;
+	}
 }
 
 .header-area .main-header-area .main-menu ul li a i {
@@ -495,11 +521,19 @@ h3 {
 	.header-area .main-header-area .main-menu ul li a i {
 		display: none!important
 	}
+	.logo-img a img{
+		height: 60px;
+		padding-bottom: 10px;
+	}
 }
 
 @media (min-width:768px) and (max-width:991px) {
 	.header-area .main-header-area .main-menu ul li a i {
 		display: none!important
+	}
+	.logo-img a img{
+		height: 60px;
+		padding-bottom: 10px;
 	}
 }
 
@@ -596,7 +630,7 @@ h3 {
 
 .header-area .main-header-area .quote-area .search-bar i {
 	font-size: 18px;
-	color: #fff
+	color: #5a2e8f
 }
 
 .header-area .main-header-area .quote-area .get-quote {
@@ -1938,7 +1972,8 @@ h3 {
 
 @media (max-width:991px) {
 	.footer-area .single-footer-widget {
-		margin-bottom: 30px
+		margin-bottom: 30px;
+		text-align: center;
 	}
 }
 
