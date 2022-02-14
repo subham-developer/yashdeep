@@ -1973,7 +1973,7 @@ h3 {
 @media (max-width:991px) {
 	.footer-area .single-footer-widget {
 		margin-bottom: 30px;
-		text-align: center;
+		/* text-align: center; */
 	}
 }
 
@@ -3398,7 +3398,7 @@ h6 {
 }
 
 .confirm-checkbox input:checked+label {
-	background: url(http://demo.simplylearnanything.com/img/elements/success-check.png) no-repeat center center/cover;
+	background: url(img/elements/success-check.png) no-repeat center center/cover;
 	border: none
 }
 
@@ -3441,7 +3441,7 @@ h6 {
 }
 
 .disabled-checkbox input:checked+label {
-	background: url(http://demo.simplylearnanything.com/img/elements/disabled-check.png) no-repeat center center/cover;
+	background: url(img/elements/disabled-check.png) no-repeat center center/cover;
 	border: none
 }
 
@@ -3479,7 +3479,7 @@ h6 {
 }
 
 .primary-radio input:checked+label {
-	background: url(http://demo.simplylearnanything.com/img/elements/primary-radio.png) no-repeat center center/cover;
+	background: url(img/elements/primary-radio.png) no-repeat center center/cover;
 	border: none
 }
 
@@ -3517,7 +3517,7 @@ h6 {
 }
 
 .confirm-radio input:checked+label {
-	background: url(http://demo.simplylearnanything.com/img/elements/success-radio.png) no-repeat center center/cover;
+	background: url(img/elements/success-radio.png) no-repeat center center/cover;
 	border: none
 }
 
@@ -3560,7 +3560,7 @@ h6 {
 }
 
 .disabled-radio input:checked+label {
-	background: url(http://demo.simplylearnanything.com/img/elements/disabled-radio.png) no-repeat center center/cover;
+	background: url(img/elements/disabled-radio.png) no-repeat center center/cover;
 	border: none
 }
 
