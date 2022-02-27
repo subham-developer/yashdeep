@@ -89,13 +89,21 @@ li {
   }
   
 
-p {
+/* p {
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 26px;
 	color: #5c5c5c;
 	margin-bottom: 13px;
 	font-family: 'Rubik', sans-serif
+} */
+p{
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 34px;
+	color: #5c5c5c;
+	margin-bottom: 13px;
+	font-family: 'Rubik', sans-serif;
 }
 
 label {
@@ -146,7 +154,7 @@ h3 {
 }
 
 .mb-65 {
-	margin-bottom: 67px
+	margin-bottom: 37px
 }
 
 .black-bg {
@@ -808,7 +816,7 @@ h3 {
 }
 
 .slider-area .single-slider {
-	height: 760px;
+	height: 160px;
 	background-size: cover;
 	background-position: center;
 	display: -webkit-box;
@@ -944,8 +952,8 @@ h3 {
 }
 
 .service-area {
-	padding-top: 120px;
-	padding-bottom: 120px
+	padding-top: 60px;
+	/* padding-bottom: 120px */
 }
 
 .service-area .single-service .service-thumb {
@@ -1110,8 +1118,8 @@ h3 {
 }
 
 .project-area {
-	padding-top: 120px;
-	padding-bottom: 120px
+	padding-top: 60px;
+	padding-bottom: 60px
 }
 
 .project-area .project-active .single-project .project-info span {
@@ -2182,7 +2190,7 @@ h3 {
 }
 
 .ptb200 {
-	padding-top: 200px;
+	/* padding-top: 200px; */
 	padding-bottom: 200px
 }
 
