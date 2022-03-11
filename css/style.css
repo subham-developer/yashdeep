@@ -977,6 +977,123 @@ h3 {
 .service-area .single-service .service-thumb {
 	margin-bottom: 39px
 }
+.single-service .service-thumb:hover {
+	opacity: 1;
+	/* background-color: #fdc900; */
+  }
+
+  .single-service-text .overlay {
+	position: absolute;
+	z-index: 0;
+	top: 0;
+	bottom: 0;
+	/* left: 0px; */
+	right: 288px;
+	height: 82%;
+	width: 90%;
+	opacity: 0;
+	transition: .5s ease;
+	background-color: #008CBA;
+  }
+
+  .single-service-text .overlay:hover {
+	position: absolute;
+	z-index: 0;
+	top: 0;
+	bottom: 0;
+	/* left: 0px; */
+	right: 287px;
+	height: 90%;
+	width: 92%;
+	opacity: 0.8;
+	transition: .5s ease;
+	background-color: #008CBA;
+  }
+
+  .single-service-text .text{
+	color: #fdc900;
+	text-align: center;
+	margin-top: 15px;
+  }
+/* On screens that are 600px or less, set the background color to olive */
+  @media only screen and (max-width: 600px) {
+	.single-service .service-thumb:hover {
+		opacity: 1;
+	  }
+	
+	  .single-service-text .overlay {
+		position: absolute;
+		z-index: 0;
+		top: 0;
+		bottom: 0;
+		right: 288px;
+		height: 82%;
+		width: 90%;
+		opacity: 0;
+		transition: .5s ease;
+		background-color: #008CBA;
+	  }
+	
+	  .single-service-text .overlay:hover {
+		position: absolute;
+		z-index: 0;
+		top: -319px;
+		bottom: 0px;
+		left: 0px;
+		height: 163%;
+		width: 99%;
+		opacity: 0.8;
+		transition: .5s ease;
+		background-color: #008CBA;
+	  }
+	
+	  .single-service-text .text{
+		color: #fdc900;
+		text-align: center;
+		margin-top: 15px;
+	  }
+  }
+
+/* On screens that are 992px or less, set the background color to blue */
+  @media only screen and (max-width: 992px) {
+	.single-service .service-thumb:hover {
+		opacity: 1;
+	  }
+	
+	  .single-service-text .overlay {
+		position: absolute;
+		z-index: 0;
+		top: 0;
+		bottom: 0;
+		right: 288px;
+		height: 82%;
+		width: 90%;
+		opacity: 0;
+		transition: .5s ease;
+		background-color: #008CBA;
+	  }
+	
+	  .single-service-text .overlay:hover {
+		position: absolute;
+		z-index: 0;
+		top: -269px;
+		bottom: 0px;
+		left: 0px;
+		height: 163%;
+		width: 99%;
+		opacity: 0.8;
+		transition: .5s ease;
+		background-color: #008CBA;
+	  }
+	
+	  .single-service-text .text{
+		color: #fdc900;
+		text-align: center;
+		margin-top: 15px;
+	  }
+  }
+
+  
 
 .service-area .single-service .service-thumb img {
 	width: 100%
@@ -1101,22 +1218,23 @@ h3 {
 }
 
 .service-details .single-details .details-thumb {
-	margin-bottom: 67px
+	margin-bottom: 36px;
+	margin-top: -30px;
 }
 
 .service-details .single-details .details-thumb img {
-	width: 80%;
-	height: 300px;
+	width: 50%;
+	height: 200px;
 }
 
 .service-details .single-details .details-info {
 	padding-right: 20px;
-	margin-bottom: 34px
+	/* margin-bottom: 34px */
 }
 
 .service-details .single-details .details-info h3 {
 	font-family: "Rubik", sans-serif;
-	font-size: 30px;
+	font-size: 15px;
 	font-weight: 400;
 	color: #020c26;
 	/* margin-bottom: 20px */
@@ -1130,7 +1248,7 @@ h3 {
 }
 
 .service-details .single-details .details-info p {
-	font-size: 16px;
+	font-size: 13px;
 	color: #5c5c5c;
 	line-height: 28px;
 	font-weight: 400
@@ -1187,6 +1305,8 @@ h3 {
 	.project-area .more-project a {
 		margin-top: 30px
 	}
+
+	
 }
 
 .project-area .more-project a:hover {
