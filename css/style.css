@@ -60,7 +60,8 @@ h2,
 h3,
 h4,
 h5 {
-	font-family: 'Rubik', sans-serif;
+	/* font-family: 'Rubik', sans-serif; */
+	font-family: 'Roboto Slab', serif;
 	color: #020c26
 }
 
@@ -190,7 +191,23 @@ h3 {
 }
 
 .bg-img-2 {
-	background-image: url(http://demo.simplylearnanything.com/img/products-img/Machine/machine.png)
+	background-image: url(http://demo.simplylearnanything.com/img/products-img/Helical-gears/20211113_155133.jpg)
+}
+
+.bg-img-3 {
+	background-image: url(http://demo.simplylearnanything.com/img/products-img/Cams/IMG-20161224-WA0021.jpg)
+}
+
+.bg-img-4 {
+	background-image: url(http://demo.simplylearnanything.com/img/products-img/Hylum-gears/20220118_173605.jpg)
+}
+
+.bg-img-5 {
+	background-image: url(http://demo.simplylearnanything.com/img/products-img/Plastic-gears/IMG-20210901-WA0018.jpg)
+}
+
+.bg-img-6 {
+	background-image: url(http://demo.simplylearnanything.com/img/products-img/Worm-and-Worm-wheel/20211118_165032.jpg)
 }
 
 .cta-bg-1 {
@@ -344,7 +361,8 @@ h3 {
 	font-size: 44px;
 	line-height: 56px;
 	font-weight: 400;
-	font-family: "Rubik", sans-serif
+	/* font-family: "Rubik", sans-serif */
+	font-family: 'Roboto Slab', serif;
 }
 
 @media (max-width:767px) {
@@ -367,7 +385,8 @@ h3 {
 .section-title span {
 	font-size: 16px;
 	color: #fdc900;
-	font-family: "Rubik", sans-serif;
+	/* font-family: "Rubik", sans-serif; */
+	font-family: 'Roboto Slab', serif;
 	font-weight: 400;
 	margin-bottom: 13px;
 	display: block;
@@ -1603,7 +1622,8 @@ h3 {
 	color: #fff;
 	font-size: 24px;
 	font-weight: 400;
-	font-family: "Rubik", sans-serif;
+	/* font-family: "Rubik", sans-serif; */
+	font-family: 'Roboto Slab', serif;
 	position: relative;
 	z-index: 9
 }
@@ -2173,7 +2193,8 @@ h3 {
 	color: #020c26;
 	text-transform: capitalize;
 	font-size: 24px;
-	font-family: 'Rubik', sans-serif
+	/* font-family: 'Rubik', sans-serif */
+	font-family: 'Roboto Slab', serif;
 }
 
 @media (max-width:1024px) {
