@@ -30,14 +30,20 @@ $(document).ready(function () {
                 breakpoint: 600,
                 settings: {
                     slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToScroll: 2,
+                    dots: false,
+                    prevArrow: false,
+                    nextArrow: false
                 }
             },
             {
                 breakpoint: 480,
                 settings: {
                     slidesToShow: 1,
-                    slidesToScroll: 1
+                    slidesToScroll: 1,
+                    dots: false,
+                    // prevArrow: false,
+                    // nextArrow: false
                 }
             }
             // You can unslick at a given breakpoint now by adding:
@@ -57,3 +63,5 @@ $(document).ready(function () {
     $('.slick-next').text('');
     $('.slick-prev').text('');
 });
+$('.slick-next').text('');
+$('.slick-prev').text('');
