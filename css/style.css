@@ -190,24 +190,24 @@ h3 {
 	background-image: url(https://yashdeep.net/img/background_img.webp)
 }
 
-.bg-img-2 {
-	background-image: url(https://yashdeep.net/img/products-img/Helical-gears/20211113_155133.jpg)
-}
+/* .bg-img-2 {
+	background-image: url(https://yashdeep.net/img/products-img/Hylum-gears/20220118_173605.jpg)
+} */
 
 .bg-img-3 {
-	background-image: url(https://yashdeep.net/img/products-img/Cams/IMG-20161224-WA0021.jpg)
+	background-image: url(https://yashdeep.net/img/products-img/Spur-and-Helical-combinations/IMG_20210120_135828.jpg)
 }
 
 .bg-img-4 {
-	background-image: url(https://yashdeep.net/img/products-img/Hylum-gears/20220118_173605.jpg)
+	background-image: url(https://yashdeep.net/img/products-img/Spur-and-Helical-combinations/IMG_20210120_140039.jpg)
 }
 
 .bg-img-5 {
-	background-image: url(https://yashdeep.net/img/products-img/Plastic-gears/IMG-20210901-WA0018.jpg)
+	background-image: url(https://yashdeep.net/img/products-img/Sprockets/20211225_121423.jpg)
 }
 
 .bg-img-6 {
-	background-image: url(https://yashdeep.net/img/products-img/Worm-and-Worm-wheel/20211118_165032.jpg)
+	background-image: url(https://yashdeep.net/img/products-img/Sprockets/20211225_121339.jpg)
 }
 
 .cta-bg-1 {
@@ -1254,7 +1254,7 @@ h3 {
 .service-details .single-details .details-info h3 {
 	font-family: "Rubik", sans-serif;
 	font-size: 15px;
-	font-weight: 400;
+	font-weight: 450;
 	color: #020c26;
 	/* margin-bottom: 20px */
 }
@@ -1267,7 +1267,7 @@ h3 {
 }
 
 .service-details .single-details .details-info p {
-	font-size: 13px;
+	font-size: 12px;
 	color: #5c5c5c;
 	line-height: 28px;
 	font-weight: 400
