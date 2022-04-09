@@ -1,0 +1,493 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<!-- Mirrored from preview.colorlib.com/theme/durg/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jan 2022 15:15:58 GMT -->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>YASHDEEP ENGINEERING SERVICES</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="shortcut icon" type="image/x-icon" href="img/xfavicon.png.pagespeed.ic.ije3VJtCFT.png">
+
+  <!-- <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" /> -->
+  <link rel="stylesheet" href="css/bootstrap.css" />
+  <link rel="stylesheet" href="css/style.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+  <script>(function (w, d) {
+      !function (a, e, t, r, z) {
+        a.zarazData = a.zarazData || {}, a.zarazData.executed = [], a.zarazData.tracks = [], a.zaraz = { deferred: [] }; var s = e.getElementsByTagName("title")[0]; a.zarazData.c = e.cookie, s && (a.zarazData.t = e.getElementsByTagName("title")[0].text), a.zarazData.w = a.screen.width, a.zarazData.h = a.screen.height, a.zarazData.j = a.innerHeight, a.zarazData.e = a.innerWidth, a.zarazData.l = a.location.href, a.zarazData.r = e.referrer, a.zarazData.k = a.screen.colorDepth, a.zarazData.n = e.characterSet, a.zarazData.o = (new Date).getTimezoneOffset(),//
+          a.dataLayer = a.dataLayer || [], a.zaraz.track = (e, t) => { for (key in a.zarazData.tracks.push(e), t) a.zarazData["z_" + key] = t[key] }, a.zaraz._preSet = [], a.zaraz.set = (e, t, r) => { a.zarazData["z_" + e] = t, a.zaraz._preSet.push([e, t, r]) }, a.dataLayer.push({ "zaraz.start": (new Date).getTime() }), a.addEventListener("DOMContentLoaded", (() => { var t = e.getElementsByTagName(r)[0], z = e.createElement(r); z.defer = !0, z.src = "https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(a.zarazData))), t.parentNode.insertBefore(z, t) }))
+      }(w, d, 0, "script");
+    })(window, document);</script>
+</head>
+
+<body>
+  <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+        <header>
+          <div class="header-area">
+            <div class="header-top black-bg d-none d-md-block">
+              <div class="container">
+                <div class="row">
+                  <div class="col-xl-6 col-md-6 col-lg-6">
+                    <div class="header-contact">
+                      <a href="#"><i class="fa fa-phone"></i> +91-7304343004 |
+                        +91-7506306663</a>
+                      <a href="#"><i class="fa fa-envelope"></i> <span class="__cf_email__">info@yashdeep.net</span></a>
+                    </div>
+                  </div>
+                  <div class="col-xl-6 col-md-6 col-lg-6">
+                    <div class="header-top-menu">
+                      <nav>
+                        <ul>
+                          <!-- <li><a href="blog.html">News & media</a></li> -->
+                          <li><a href="review.html">Review</a></li>
+                          <!-- <li><a href="faq.html">FAQ</a></li> -->
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="sticky-header" class="main-header-area white-bg">
+              <div class="container">
+                <div class="row align-items-center">
+                  <div class="col-xl-2 col-lg-2">
+                    <div class="logo-img animate__animated" data-aos="flip-right"
+                    data-aos-duration="2000">
+                      <a href="index.html">
+                        <img src="img/logo/logo_1.png" alt="">
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-xl-7 col-lg-7">
+                    <div class="main-menu d-none d-lg-block">
+                      <nav>
+                        <ul id="navigation">
+                          <li><a class="active" href="index.html">Home</a></li>
+                          <li><a href="about.html">About</a></li>
+                          <li><a href="#">Our Products <i class="ti-angle-down"></i></a>
+                            <ul class="submenu">
+                              <li><a href="gears.html">Gears</a></li>
+                              <li><a href="machinery-and-gears">Machinery Parts & Gears</a></li>
+                              <!-- <li><a href="#">Machinery & Plants</a></li> -->
+                              <!-- <li><a href="#">Spur Gears</a></li>
+                              <li><a href="#">Helical Gears</a></li>
+                              <li><a href="#">Bevel Gears</a></li>
+                              <li><a href="#">Worm and Worm Wheel</a></li>
+                              <li><a href="#">Plastic Gears</a></li>
+                              <li><a href="#">Hylum Gears</a></li>
+                              <li><a href="#">Timer Pulleys</a></li>
+                              <li><a href="#">Sprockets</a></li>
+                              <li><a href="#">Cams</a></li>
+                              <li><a href="#">Collets</a></li> -->
+                            </ul>
+                          </li>
+                          <!-- <li><a href="service.html">Services</a></li> -->
+                          <!-- <li><a href="project.html">Projects</a></li> -->
+                          <!-- <li><a href="#">blog <i class="ti-angle-down"></i></a>
+      <ul class="submenu">
+      <li><a href="blog.html">blog</a></li>
+      <li><a href="single-blog.html">single-blog</a></li>
+      </ul>
+      </li> -->
+                          <!-- <li><a href="#">pages <i class="ti-angle-down"></i></a>
+      <ul class="submenu">
+      <li><a href="elements.html">elements</a></li>
+      <li><a href="service-details.html">service-details</a></li>
+      <li><a href="project-details.html">project-details</a></li>
+      </ul>
+      </li> -->
+                          <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+                  <div class="col-xl-3 col-lg-3">
+                    <div class="quote-area">
+                      <div class="search-bar">
+                        <!-- <a id="search_1" href="javascript:void(0)"><i class="fa
+                              fa-search"></i></a> -->
+                      </div>
+                      <div class="get-quote d-none d-lg-block">
+                        <!-- <a class="boxed-btn" href="#">Get a quote</a> -->
+                        <!-- <button type="button" class="boxed-btn" data-toggle="modal" data-target="#exampleModal" data-aos="flip-left"
+                        data-aos-easing="ease-out-cubic"
+                        data-aos-duration="2000">
+                          Get a quote
+                        </button> -->
+                        <button type="button" class="boxed-btn" >
+                          Get a quote
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="mobile_menu d-block d-lg-none"></div>
+                  </div>
+                </div>
+                <div class="search_input" id="search_input_box">
+                  <div class="container">
+                    <form class="d-flex justify-content-between search-inner">
+                      <input type="text" class="form-control" id="search_input" placeholder="Search Here">
+                      <button type="submit" class="btn"></button>
+                      <span class="fa fa-close" id="close_search" title="Close
+                          Search"></span>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+
+
+  <section class="breadcrumb breadcrumb_bg banner-bg-1 overlay2 ptb200">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 offset-lg-1">
+          <div class="breadcrumb_iner">
+            <div class="breadcrumb_iner_item">
+              <h2>Products details</h2>
+              <p> <a href="index.html">Home.</a> <span></span> Machinery Parts & Gears</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <div class="service-details">
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-4">
+          <div class="details-nav">
+            <nav>
+              <ul class="nav" id="myTab" role="tablist">
+                <li class="nav-item">
+                  <a class="nav-link active show" id="home-tab" data-toggle="tab" href="#spur-gears" role="tab"
+                    aria-controls="home" aria-selected="true">Machinery Parts & Gears</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a class="nav-link" id="profile-tab" data-toggle="tab" href="#helical-gears" role="tab"
+                    aria-controls="profile" aria-selected="false">Helical Gears</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="contact-tab" data-toggle="tab" href="#bevel-gears" role="tab"
+                    aria-controls="contact" aria-selected="false">Bevel Gears</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="contact-tab" data-toggle="tab" href="#worm-wheels" role="tab"
+                    aria-controls="contact" aria-selected="false">Worm & Worm Wheels</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="contact-tab" data-toggle="tab" href="#plastic-gears" role="tab"
+                    aria-controls="contact" aria-selected="false">Plastic Gears</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="contact-tab" data-toggle="tab" href="#hylum-gears" role="tab"
+                    aria-controls="contact" aria-selected="false">Hylum Gears</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="contact-tab" data-toggle="tab" href="#timer-pulleys" role="tab"
+                    aria-controls="contact" aria-selected="false">Timer Pulleys</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="contact-tab" data-toggle="tab" href="#sprockets" role="tab"
+                    aria-controls="contact" aria-selected="false">Sprockets</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="contact-tab" data-toggle="tab" href="#cylindrical" role="tab"
+                    aria-controls="contact" aria-selected="false">Cylindrical Grinding Work</a>
+                </li> -->
+              </ul>
+            </nav>
+            <!-- <a href="#" class="download-brouser">Download broucher</a> -->
+            <!-- <a href="gears.html" class="download-brouser">Back to Gears</a> -->
+          </div>
+        </div>
+        <div class="col-xl-8">
+          <div class="single-details">
+            <div class="tab-content" id="myTabContent">
+              <!-- Spur Gears -->
+              <div class="tab-pane fade show active" id="spur-gears" role="tabpanel" aria-labelledby="home-tab">
+                <div class="details-wrap">
+                  <div class="details-thumb">
+                    <img src="img/products-img/machine-pads/IMG_1826.jpg" alt="">
+                  </div>
+                  <div class="details-info">
+                    <h3>MATERIALS BASE PADS</h3>
+                    <p>Upto 2 TONS</p>
+                    <p>2 TONS to 5 TONS</p>
+                    <p>5 TONS to 10 TONS</p>
+                  </div>
+                  <!-- <div class="details-info">
+                    <h3>Size</h3>
+                    <p>10mm to 600 mm Outer dia. And upto 500mm Cutting Length.
+                    </p>
+                  </div>
+                  <div class="details-info">
+                    <h3>Module</h3>
+                    <p>0.5 to 6.0
+                    </p>
+                  </div>
+                  <div class="details-info">
+                    <h3>D.P. (Diametral pitch)</h3>
+                    <p>51 to 4
+                    </p>
+                  </div> -->
+                </div>
+              </div>
+              <!-- Ends Here -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- <div class="cta-area cta-bg-1">
+    <div class="container">
+      <div class="col-xl-6 col-lg-7">
+        <div class="cta-content">
+          <h3>Let’s talk about your <br>
+            industrial problems</h3>
+          <p>WLorem Ipsum is simply dummy text of the printing <br> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s <br>text ever since the 1500s.</p>
+          <div class="cta-btn">
+            <a class="boxed-btn2 black-bg" href="#">Discuss now <i class="Flaticon flaticon-right-arrow"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+
+  <div class="addres-area black-bg section-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-4 col-md-4">
+          <div class="single-address text-center">
+            <div class="addres-icon">
+              <img src="img/icon/x1.png.pagespeed.ic.HBj1zWf24z.png" alt="">
+            </div>
+            <h3>Our Location</h3>
+            <p>Gala No. 1, Pride Industrial Estate,
+              Sativali road, <br> Next to Waliv
+              Phata, Vasai (E),<br> Palghar - 401 208.</p>
+            <a class="underline-hover" href="#">Get Direction</a>
+          </div>
+        </div>
+        <div class="col-xl-4 col-md-4">
+          <div class="single-address text-center">
+            <div class="addres-icon">
+              <img src="img/icon/x2.png.pagespeed.ic.5zTzGhP4O0.png" alt="">
+            </div>
+            <h3>Opening hour</h3>
+            <p>Mon-Fri (9.00-19.00) <br>
+              Sun <a class="underline-hover" href="#">(Closed)</a></p>
+          </div>
+        </div>
+        <div class="col-xl-4 col-md-4">
+          <div class="single-address text-center">
+            <div class="addres-icon">
+              <img src="img/icon/x3.png.pagespeed.ic.lk9LWawdzI.png" alt="">
+            </div>
+            <h3>Drop a message</h3>
+            <p><a href="https://preview.colorlib.com/cdn-cgi/l/email-protection" class="__cf_email__"
+                data-cfemail="41323431312e333501253433266f222e2c">[email&#160;protected]</a> <br>
+              456 267 3572</p>
+            <a class="underline-hover" href="#">Mail Us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Whatsapp Icon Starts Here -->
+<!-- animate__animated animate__backInDown animate__delay-2s animate__slow 	2s animate__repeat-1 	1 -->
+<div class="icon-bar whatsapp_icon " data-aos="flip-left"
+data-aos-easing="ease-out-cubic"
+data-aos-duration="2000" style="position: fixed;width:
+        50px;height: 50px;bottom: 40px;background-color: #25d366;color:
+        #FFF;border-radius: 50px;text-align: center;font-size: 30px;box-shadow:
+        3px 4px 3px #999;left: 85px;z-index: 100;">
+  <a href="https://api.whatsapp.com/send/?phone=+917506306663&text=Hi, I would like to know more about it." target="_blank" class="whatsapp"><i class="fa fa-whatsapp"
+      style="color: white;"></i></a>
+</div>
+<!-- Whatsapp Icon Ends Here -->
+
+<footer class="footer-area">
+  <div class="container" data-aos="fade-up"
+  data-aos-anchor-placement="center-bottom"
+  data-aos-duration="2500">
+    <div class="row justify-content-between">
+      <div class="col-sm-6 col-md-3 col-xl-4" >
+        <div class="single-footer-widget footer_1">
+          <a href="index.html"> <img src="img/logo/logo_1.png" alt=""> </a>
+          <p>YASHDEEP GEARS is a branch of YASHDEEP ENGINEERING SERVICES,
+            providing services in various fields of engineering like Food,
+            Pharmaceutical and Packaging industries.</p>
+          <div class="social-links">
+            <ul>
+              <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
+              <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
+              <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2 col-xl-2">
+        <div class="single-footer-widget">
+          <h4>Company</h4>
+          <ul>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#">Media</a></li>
+            <li><a href="#">Carrier</a></li>
+            <li><a href="#">Testimonials</a></li>
+            <li><a href="#">Stability</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3 col-xl-3">
+        <div class="single-footer-widget">
+          <h4>Solutions</h4>
+          <ul>
+            <li><a href="gears.html">Gear Solutions</a></li>
+            <li><a href="#">Machinery Solutions</a></li>
+            <!-- <li><a href="#">Industrial problems</a></li>
+            <li><a href="#"> Construction solution</a></li>
+            <li><a href="#">Car manufacturing</a></li>
+            <li><a href="#">Mechanical problems</a></li> -->
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3 col-xl-3">
+        <div class="single-footer-widget footer_icon">
+          <h4>Branch office</h4>
+          <div class="office-location">
+            <ul>
+              <li>
+                <strong>Maharashtra - India.</strong>
+                <p>Gala No. 1, Pride Industrial Estate,
+                  Sativali road, Next to Waliv
+                  Phata, Vasai (E), Palghar - 401 208.<br>
+                  +91-7304343004 | 7506306663</p>
+              </li>
+              <!-- <li>
+<strong>New York - USA</strong>
+<p>127, Manchaster city, London <br>
++008 728 362 278</p>
+</li> -->
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid" data-aos="zoom-in-up"
+  data-aos-anchor-placement="center-bottom"
+  data-aos-duration="1500">
+    <div class="row justify-content-center">
+      <div class="col-lg-12" >
+        <div class="copyright_part_text text-center">
+          <hr/>
+          <p class="footer-text m-0">
+            Copyright &copy;
+            <script data-cfasync="false" src="#"></script>
+            <script>document.write(new Date().getFullYear());</script>
+            All rights reserved | YASHDEEP ENGINEERING SERVICES.
+            <!-- <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank"> -->
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init({
+    // Global settings:
+  disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+  startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+  initClassName: 'aos-init', // class applied after initialization
+  animatedClassName: 'aos-animate', // class applied on animation
+  useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
+  disableMutationObserver: false, // disables automatic mutations' detections (advanced)
+  debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
+  throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+  
+
+  // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+  offset: 120, // offset (in px) from the original trigger point
+  delay: 0, // values from 0 to 3000, with step 50ms
+  duration: 400, // values from 0 to 3000, with step 50ms
+  easing: 'ease', // default easing for AOS animations
+  once: false, // whether animation should happen only once - while scrolling down
+  mirror: false, // whether elements should animate out while scrolling past them
+  anchorPlacement: 'top-bottom', 
+  });
+</script>
+
+
+  <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+  <script src="js/vendor/jquery-1.12.4.min.js"></script>
+  <script src="js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
+  <script>eval(mod_pagespeed_PoG1n$C_HZ);</script>
+  <script>eval(mod_pagespeed_KcwNW7Roen);</script>
+  <script
+    src="js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
+  <script>eval(mod_pagespeed_jG4BmLRudT);</script>
+  <script>eval(mod_pagespeed_UmJtFt2ANo);</script>
+  <script>eval(mod_pagespeed_jn_UX_ZmE1);</script>
+  <script>eval(mod_pagespeed_Dyv2zTIJeq);</script>
+  <script>eval(mod_pagespeed_XCOqhXIiJZ);</script>
+  <script
+    src="js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
+  <script>eval(mod_pagespeed_KI$jPWET83);</script>
+  <script>eval(mod_pagespeed_zw8pJd7bad);</script>
+  <script>eval(mod_pagespeed_n$NP8fq730);</script>
+  <script>eval(mod_pagespeed_p1u$EKABye);</script>
+  <script>eval(mod_pagespeed__gp2D4edNW);</script>
+  <script>eval(mod_pagespeed_tXfmJbNM_O);</script>
+  <script>eval(mod_pagespeed_3QhkDYibdG);</script>
+  <script>eval(mod_pagespeed_LcmyyIsCku);</script>
+
+  <script>eval(mod_pagespeed_2YC23hYHFS);</script>
+  <script>eval(mod_pagespeed_C7wAzhGWxz);</script>
+  <script
+    src="js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
+  <script>eval(mod_pagespeed_rAc72dK4CC);</script>
+  <script>eval(mod_pagespeed_eEMagb_shM);</script>
+  <script>eval(mod_pagespeed_x_wJnbppy3);</script>
+  <script>eval(mod_pagespeed_QcC3XcZqe9);</script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-23581568-13');
+  </script>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"
+    integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="
+    data-cf-beacon='{"rayId":"6d4b2b0a9cac31d0","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.12.0","si":100}'
+    crossorigin="anonymous"></script>
+</body>
+
+<!-- Mirrored from preview.colorlib.com/theme/durg/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jan 2022 15:15:59 GMT -->
+
+</html>
