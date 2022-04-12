@@ -31,8 +31,8 @@
               <div class="col-xl-2 col-lg-2">
                 <div class="logo-img animate__animated" data-aos="flip-right"
                   data-aos-duration="2000">
-                  <a href="index.html">
-                    <img src="../img/logo/logo_1.png" alt="">
+                  <a href="index">
+                    <img src="img/logo/logo_1.png" alt="">
                   </a>
                 </div>
               </div>
@@ -40,8 +40,8 @@
                 <div class="main-menu d-none d-lg-block">
                   <nav>
                     <ul id="navigation">
-                      <li><a class="active" href="index.php">Home</a></li>
-                      <li><a href="about.php">About</a></li>
+                      <li><a class="active" href="index">Home</a></li>
+                      <li><a href="about">About</a></li>
                       <!-- <li><a href="service-details.html">Our Proucts <i class="ti-angle-down"></i></a>
                       <ul class="submenu">
                         <li><a href="#">Spur Gears</a></li>
@@ -58,8 +58,8 @@
                     </li> -->
                       <li><a href="#">Our Products <i class="ti-angle-down"></i></a>
                         <ul class="submenu">
-                          <li><a href="gears.php">Gears</a></li>
-                          <li><a href="machinery-and-gears.php">Machinery Parts & Gears</a></li>
+                          <li><a href="gears">Gears</a></li>
+                          <li><a href="machinery-and-gears">Machinery Parts & Gears</a></li>
                           <!-- <li><a href="#">Machinery & Plants</a></li> -->
                           <!-- <li><a href="#">Bevel Gears</a></li>
                         <li><a href="#">Worm and Worm Wheel</a></li>
@@ -86,7 +86,7 @@
 <li><a href="project-details.html">project-details</a></li>
 </ul>
 </li> -->
-                      <li><a href="contact.php">Contact</a></li>
+                      <li><a href="contact">Contact</a></li>
                     </ul>
                   </nav>
                 </div>

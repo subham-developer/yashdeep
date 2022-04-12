@@ -32,7 +32,7 @@
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="../img/project/project-1.png" alt="">
+<img src="img/project/project-1.png" alt="">
 </div>
 <div class="project-info">
 <span>Industrial construction</span>
@@ -43,7 +43,7 @@
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="../img/project/project-2.png" alt="">
+<img src="img/project/project-2.png" alt="">
 </div>
 <div class="project-info">
 <span>Machine engineering</span>
@@ -54,7 +54,7 @@
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="../img/project/project-3.png" alt="">
+<img src="img/project/project-3.png" alt="">
 </div>
 <div class="project-info">
 <span>Industrial construction</span>
@@ -65,7 +65,7 @@
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="../img/project/project-4.png" alt="">
+<img src="img/project/project-4.png" alt="">
 </div>
 <div class="project-info">
 <span>Machine engineering</span>
@@ -76,7 +76,7 @@
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="../img/project/project-5.png" alt="">
+<img src="img/project/project-5.png" alt="">
 </div>
 <div class="project-info">
 <span>Industrial construction</span>
@@ -87,7 +87,7 @@
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="../img/project/project-6.png" alt="">
+<img src="img/project/project-6.png" alt="">
 </div>
 <div class="project-info">
 <span>Machine engineering</span>
@@ -124,7 +124,7 @@ fish <br> whales winged.</p>
 <div class="col-xl-4 col-md-4">
 <div class="single-address text-center">
 <div class="addres-icon">
-<img src="../img/icon/x1.png.pagespeed.ic.HBj1zWf24z.png" alt="">
+<img src="img/icon/x1.png.pagespeed.ic.HBj1zWf24z.png" alt="">
 </div>
 <h3>Our Location</h3>
 <p>127, Manchaster city, London <br>
@@ -135,7 +135,7 @@ fish <br> whales winged.</p>
 <div class="col-xl-4 col-md-4">
 <div class="single-address text-center">
 <div class="addres-icon">
-<img src="../img/icon/x2.png.pagespeed.ic.5zTzGhP4O0.png" alt="">
+<img src="img/icon/x2.png.pagespeed.ic.5zTzGhP4O0.png" alt="">
 </div>
 <h3>Opening hour</h3>
 <p>Mon-Fri (9.00-19.00) <br>
@@ -145,7 +145,7 @@ Sat-Sun <a class="underline-hover" href="#">(Closed)</a></p>
 <div class="col-xl-4 col-md-4">
 <div class="single-address text-center">
 <div class="addres-icon">
-<img src="../img/icon/x3.png.pagespeed.ic.lk9LWawdzI.png" alt="">
+<img src="img/icon/x3.png.pagespeed.ic.lk9LWawdzI.png" alt="">
 </div>
 <h3>Drop a message</h3>
 <p><a href="https://preview.colorlib.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94e7e1e4e4fbe6e0d4f0e1e6f3baf7fbf9">[email&#160;protected]</a> <br>
@@ -163,7 +163,7 @@ Sat-Sun <a class="underline-hover" href="#">(Closed)</a></p>
 <div class="row justify-content-between">
 <div class="col-sm-6 col-md-3 col-xl-4">
 <div class="single-footer-widget footer_1">
-<a href="index.html"> <img src="../img/xfooter-logo.png.pagespeed.ic.FfjQbLQYbf.png" alt=""> </a>
+<a href="index.html"> <img src="img/xfooter-logo.png.pagespeed.ic.FfjQbLQYbf.png" alt=""> </a>
 <p>Waters make fish every without firmament saw had. Morning air subdue very one. Whales grass
 is fish whales winged.</p>
 <div class="social-links">

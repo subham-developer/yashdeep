@@ -51,7 +51,7 @@
                 <div class="col-xl-3 col-md-3" data-aos="flip-left">
                   <div class="single-service">
                     <div class="service-thumb">
-                      <img src="../img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg" alt="Bevel Gears">
+                      <img src="img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg" alt="Bevel Gears">
                     </div>
                   </div>
                 </div>
@@ -86,7 +86,7 @@
                 <div class="col-xl-3 col-md-3" data-aos="flip-right">
                   <div class="single-service">
                     <div class="service-thumb">
-                      <img src="../img/products-img/Spur-gears/spur-gears.png" alt="">
+                      <img src="img/products-img/Spur-gears/spur-gears.png" alt="">
                     </div>
                   </div>
                 </div>
@@ -124,7 +124,7 @@
                 <div class="col-xl-3 col-md-3" data-aos="flip-left">
                   <div class="single-service">
                     <div class="service-thumb">
-                      <img src="../img/products-img/Helical-gears/Helical-gears.png" alt="HELICAL GEARS">
+                      <img src="img/products-img/Helical-gears/Helical-gears.png" alt="HELICAL GEARS">
                     </div>
                   </div>
                 </div>
@@ -159,7 +159,7 @@
                 <div class="col-xl-3 col-md-3" data-aos="flip-right">
                   <div class="single-service">
                     <div class="service-thumb">
-                      <img src="../img/products-img/Worm-and-Worm-wheel/worm.png" alt="WORM AND WORM WHEEL">
+                      <img src="img/products-img/Worm-and-Worm-wheel/worm.png" alt="WORM AND WORM WHEEL">
                     </div>
                   </div>
                 </div>
@@ -196,7 +196,7 @@
                 <div class="col-xl-3 col-md-3" data-aos="flip-left">
                   <div class="single-service">
                     <div class="service-thumb">
-                      <img src="../img/products-img/Plastic-gears/plastic-gears.png" alt="PLASTIC GEARS">
+                      <img src="img/products-img/Plastic-gears/plastic-gears.png" alt="PLASTIC GEARS">
                     </div>
                   </div>
                 </div>
@@ -229,7 +229,7 @@
                 <div class="col-xl-3 col-md-3" data-aos="flip-right">
                   <div class="single-service">
                     <div class="service-thumb">
-                      <img src="../img/products-img/Hylum-gears/Hylum-gears.png" alt="Bevel Gears">
+                      <img src="img/products-img/Hylum-gears/Hylum-gears.png" alt="Bevel Gears">
                     </div>
                   </div>
                 </div>
@@ -361,7 +361,7 @@
                 <div class="col-xl-4 col-md-4">
                     <div class="single-service">
                         <div class="service-thumb">
-                            <img src="../img/service/x1.jpg.pagespeed.ic.sCw5Q9N1-G.jpg" alt="">
+                            <img src="img/service/x1.jpg.pagespeed.ic.sCw5Q9N1-G.jpg" alt="">
                         </div>
                         <h3>Industrial construction</h3>
                         <p>Waters make fish every without firmament saw had. Morning air subdue.</p>
@@ -371,7 +371,7 @@
                 <div class="col-xl-4 col-md-4">
                     <div class="single-service">
                         <div class="service-thumb">
-                            <img src="../img/service/x2.jpg.pagespeed.ic.E4I3Jl2B6V.jpg" alt="">
+                            <img src="img/service/x2.jpg.pagespeed.ic.E4I3Jl2B6V.jpg" alt="">
                         </div>
                         <h3>Mechanical engineering</h3>
                         <p>Waters make fish every without firmament saw had. Morning air subdue.</p>
@@ -381,7 +381,7 @@
                 <div class="col-xl-4 col-md-4">
                     <div class="single-service">
                         <div class="service-thumb">
-                            <img src="../img/service/x1.jpg.pagespeed.ic.sCw5Q9N1-G.jpg" alt="">
+                            <img src="img/service/x1.jpg.pagespeed.ic.sCw5Q9N1-G.jpg" alt="">
                         </div>
                         <h3>Bridge construction</h3>
                         <p>Waters make fish every without firmament saw had. Morning air subdue.</p>
@@ -418,7 +418,7 @@
           <div class="col-xl-4 col-md-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
             <div class="single-address text-center">
               <div class="addres-icon">
-                <img src="../img/icon/1.png" alt="">
+                <img src="img/icon/1.png" alt="">
               </div>
               <h3>Our Location</h3>
               <p>Gala No. 1, Pride Industrial Estate,
@@ -430,7 +430,7 @@
           <div class="col-xl-4 col-md-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
             <div class="single-address text-center">
               <div class="addres-icon">
-                <img src="../img/icon/2.png" alt="">
+                <img src="img/icon/2.png" alt="">
               </div>
               <h3>Opening hour</h3>
               <p>Mon-Sat (09.00AM - 06.00PM) <br>
@@ -440,7 +440,7 @@
           <div class="col-xl-4 col-md-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
             <div class="single-address text-center">
               <div class="addres-icon">
-                <img src="../img/icon/3.png" alt="">
+                <img src="img/icon/3.png" alt="">
               </div>
               <h3>Drop a message</h3>
               <p><a href="#">[email&#160;protected]</a> <br>
@@ -559,9 +559,9 @@
 </script> -->
 
 
-    <script src="../js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="../js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="../js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
     <script>
       eval(mod_pagespeed_PoG1n$C_HZ);
     </script>
@@ -569,7 +569,7 @@
       eval(mod_pagespeed_KcwNW7Roen);
     </script>
     <script
-      src="../js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js">
+      src="js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js">
     </script>
     <script>
       eval(mod_pagespeed_jG4BmLRudT);
@@ -587,7 +587,7 @@
       eval(mod_pagespeed_XCOqhXIiJZ);
     </script>
     <script
-      src="../js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag">
+      src="js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag">
     </script>
     <script>
       eval(mod_pagespeed_KI$jPWET83);
@@ -620,7 +620,7 @@
     <script>
       eval(mod_pagespeed_C7wAzhGWxz);
     </script>
-    <script src="../js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js">
+    <script src="js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js">
     </script>
     <script>
       eval(mod_pagespeed_rAc72dK4CC);

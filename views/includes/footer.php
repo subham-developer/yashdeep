@@ -5,7 +5,7 @@
               <div class="row justify-content-between">
                 <div class="col-sm-6 col-md-3 col-xl-4">
                   <div class="single-footer-widget footer_1 p-text-align">
-                    <a href="index.html"> <img src="../img/logo/logo_1.png" alt=""> </a>
+                    <a href="index.html"> <img src="img/logo/logo_1.png" alt=""> </a>
                     <p>YASHDEEP GEARS is a branch of YASHDEEP ENGINEERING
                       SERVICES,
                       providing services in various fields of engineering like

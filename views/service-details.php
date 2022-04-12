@@ -89,7 +89,7 @@
               <div class="tab-pane fade show active" id="spur-gears" role="tabpanel" aria-labelledby="home-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Spur-gears/containerluckykingplay.jpg" alt="">
+                    <img src="img/products-img/Spur-gears/containerluckykingplay.jpg" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -117,7 +117,7 @@
               <div class="tab-pane fade" id="helical-gears" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Helical-gears/IMG_20210120_155348.jpg" alt="">
+                    <img src="img/products-img/Helical-gears/IMG_20210120_155348.jpg" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -152,7 +152,7 @@
               <div class="tab-pane fade" id="bevel-gears" role="tabpanel" aria-labelledby="contact-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg" alt="">
+                    <img src="img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -187,7 +187,7 @@
               <div class="tab-pane fade" id="worm-wheels" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Worm-and-Worm-wheel/20211118_165032.jpg" alt="">
+                    <img src="img/products-img/Worm-and-Worm-wheel/20211118_165032.jpg" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -215,7 +215,7 @@
               <div class="tab-pane fade" id="plastic-gears" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Plastic-gears/plastic-gears.png" alt="">
+                    <img src="img/products-img/Plastic-gears/plastic-gears.png" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -243,7 +243,7 @@
               <div class="tab-pane fade" id="hylum-gears" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Hylum-gears/Hylum-gears.png" alt="">
+                    <img src="img/products-img/Hylum-gears/Hylum-gears.png" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -271,7 +271,7 @@
               <div class="tab-pane fade" id="timer-pulleys" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Timer pulleys/timer-pulley-500x500.jpg" alt="">
+                    <img src="img/products-img/Timer pulleys/timer-pulley-500x500.jpg" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -302,7 +302,7 @@
               <div class="tab-pane fade" id="sprockets" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/Sprockets/20211225_121349.jpg" alt="">
+                    <img src="img/products-img/Sprockets/20211225_121349.jpg" alt="">
                   </div>
                   <div class="details-info">
                     <h3>MATERIALS USED FOR GEARS</h3>
@@ -335,7 +335,7 @@
               <div class="tab-pane fade" id="cylindrical" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
-                    <img src="../img/products-img/cylindrical/cyl-grinder.jpg" alt="">
+                    <img src="img/products-img/cylindrical/cyl-grinder.jpg" alt="">
                   </div>
                   <div class="details-info">
                     <h3>Capacity Of Machine</h3>
@@ -392,7 +392,7 @@
         <div class="col-xl-4 col-md-4">
           <div class="single-address text-center">
             <div class="addres-icon">
-              <img src="../img/icon/x1.png.pagespeed.ic.HBj1zWf24z.png" alt="">
+              <img src="img/icon/x1.png.pagespeed.ic.HBj1zWf24z.png" alt="">
             </div>
             <h3>Our Location</h3>
             <p>Gala No. 1, Pride Industrial Estate,
@@ -404,7 +404,7 @@
         <div class="col-xl-4 col-md-4">
           <div class="single-address text-center">
             <div class="addres-icon">
-              <img src="../img/icon/x2.png.pagespeed.ic.5zTzGhP4O0.png" alt="">
+              <img src="img/icon/x2.png.pagespeed.ic.5zTzGhP4O0.png" alt="">
             </div>
             <h3>Opening hour</h3>
             <p>Mon-Fri (9.00-19.00) <br>
@@ -414,7 +414,7 @@
         <div class="col-xl-4 col-md-4">
           <div class="single-address text-center">
             <div class="addres-icon">
-              <img src="../img/icon/x3.png.pagespeed.ic.lk9LWawdzI.png" alt="">
+              <img src="img/icon/x3.png.pagespeed.ic.lk9LWawdzI.png" alt="">
             </div>
             <h3>Drop a message</h3>
             <p><a href="https://preview.colorlib.com/cdn-cgi/l/email-protection" class="__cf_email__"
@@ -470,20 +470,20 @@ data-aos-duration="2000" style="position: fixed;width:
 </script>
 
 
-  <script src="../js/vendor/modernizr-3.5.0.min.js"></script>
-  <script src="../js/vendor/jquery-1.12.4.min.js"></script>
-  <script src="../js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
+  <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+  <script src="js/vendor/jquery-1.12.4.min.js"></script>
+  <script src="js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
   <script>eval(mod_pagespeed_PoG1n$C_HZ);</script>
   <script>eval(mod_pagespeed_KcwNW7Roen);</script>
   <script
-    src="../js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
+    src="js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
   <script>eval(mod_pagespeed_jG4BmLRudT);</script>
   <script>eval(mod_pagespeed_UmJtFt2ANo);</script>
   <script>eval(mod_pagespeed_jn_UX_ZmE1);</script>
   <script>eval(mod_pagespeed_Dyv2zTIJeq);</script>
   <script>eval(mod_pagespeed_XCOqhXIiJZ);</script>
   <script
-    src="../js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
+    src="js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
   <script>eval(mod_pagespeed_KI$jPWET83);</script>
   <script>eval(mod_pagespeed_zw8pJd7bad);</script>
   <script>eval(mod_pagespeed_n$NP8fq730);</script>
@@ -496,7 +496,7 @@ data-aos-duration="2000" style="position: fixed;width:
   <script>eval(mod_pagespeed_2YC23hYHFS);</script>
   <script>eval(mod_pagespeed_C7wAzhGWxz);</script>
   <script
-    src="../js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
+    src="js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
   <script>eval(mod_pagespeed_rAc72dK4CC);</script>
   <script>eval(mod_pagespeed_eEMagb_shM);</script>
   <script>eval(mod_pagespeed_x_wJnbppy3);</script>

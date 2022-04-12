@@ -146,7 +146,7 @@
               <div class="your-class">
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg" alt="" />
+                      <img src="img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Bevel Gears</div>
@@ -158,7 +158,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Cams/IMG-20161224-WA0018.jpg" alt="" />
+                      <img src="img/products-img/Cams/IMG-20161224-WA0018.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Cams</div>
@@ -166,7 +166,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Helical-gears/IMG_20210120_155349.jpg" alt="" />
+                      <img src="img/products-img/Helical-gears/IMG_20210120_155349.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Helical Gears</div>
@@ -174,7 +174,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Helical-Shafts/Helical spindle 2.jpg" alt="" />
+                      <img src="img/products-img/Helical-Shafts/Helical spindle 2.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Helical Shafts</div>
@@ -182,7 +182,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Hylum-gears/20220118_173605.jpg" alt="" />
+                      <img src="img/products-img/Hylum-gears/20220118_173605.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Helical Gears</div>
@@ -190,7 +190,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Machine/machine.png" alt="" />
+                      <img src="img/products-img/Machine/machine.png" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Machine</div>
@@ -198,7 +198,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Plastic-gears/IMG_20210901_120352.jpg" alt="" />
+                      <img src="img/products-img/Plastic-gears/IMG_20210901_120352.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Plastic Gears</div>
@@ -206,7 +206,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Sprockets/20211225_121423.jpg" alt="" />
+                      <img src="img/products-img/Sprockets/20211225_121423.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Sprockets</div>
@@ -214,7 +214,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Spur and Helical combinations/IMG_20210120_140036.jpg" alt="" />
+                      <img src="img/products-img/Spur and Helical combinations/IMG_20210120_140036.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Spur and Helical combinations</div>
@@ -222,7 +222,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Spur Shafts/IMG_20210120_155634.jpg" alt="" />
+                      <img src="img/products-img/Spur Shafts/IMG_20210120_155634.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Spur Shafts</div>
@@ -230,7 +230,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Spur-gears/IMG_20210120_135815.jpg" alt="" />
+                      <img src="img/products-img/Spur-gears/IMG_20210120_135815.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Spur Gears</div>
@@ -238,7 +238,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Timer pulleys/timer-pulley-500x500.jpg" alt="" />
+                      <img src="img/products-img/Timer pulleys/timer-pulley-500x500.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Timer pulleys</div>
@@ -246,7 +246,7 @@
                 </div>
                 <div class="slide">
                   <figure>
-                      <img src="../img/products-img/Worm-and-Worm-wheel/20211118_165032.jpg" alt="" />
+                      <img src="img/products-img/Worm-and-Worm-wheel/20211118_165032.jpg" alt="" />
                     </figure>
                       <div class="text">
                           <div class="category">Worm and Worm wheel</div>
@@ -315,7 +315,7 @@
       <div class="single-project">
         <div class="project-thumb" data-aos="zoom-in-down" data-aos-anchor-placement="center-bottom"
           data-aos-duration="2000">
-          <img src="../img/products-img/Machine/machine.png" width="80%" alt="">
+          <img src="img/products-img/Machine/machine.png" width="80%" alt="">
         </div>
         <div class="project-info">
           <span>Repairing of Gear boxes.</span>
@@ -324,7 +324,7 @@
       </div>
       <div class="single-project">
         <div class="project-thumb">
-          <img src="../img/local/Gear2.jpg" alt="">
+          <img src="img/local/Gear2.jpg" alt="">
         </div>
         <div class="project-info">
           <span>Grinding service.</span>
@@ -334,7 +334,7 @@
       </div>
       <div class="single-project">
         <div class="project-thumb">
-          <img src="../img/local/Gear2.jpg" alt="">
+          <img src="img/local/Gear2.jpg" alt="">
         </div>
         <div class="project-info">
           <span>Design and consultancy services.</span>
@@ -343,7 +343,7 @@
       </div>
       <div class="single-project">
         <div class="project-thumb">
-          <img src="../img/local/Gear1.jpg" alt="">
+          <img src="img/local/Gear1.jpg" alt="">
         </div>
         <div class="project-info">
           <span>Machine engineering</span>
@@ -380,7 +380,7 @@
               <div class="col-xl-3 col-md-3" data-aos="flip-left">
                 <div class="single-service">
                   <div class="service-thumb">
-                    <img src="../img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg"
+                    <img src="img/products-img/Bevel-gears/IMG-20140712-WA0002.jpg"
                       alt="Bevel Gears">
                   </div>
                 </div>
@@ -415,7 +415,7 @@
               <div class="col-xl-3 col-md-3" data-aos="flip-right">
                 <div class="single-service">
                   <div class="service-thumb">
-                    <img src="../img/products-img/Spur-gears/spur-gears.png"
+                    <img src="img/products-img/Spur-gears/spur-gears.png"
                       alt="">
                   </div>
                 </div>
@@ -454,7 +454,7 @@
               <div class="col-xl-3 col-md-3" data-aos="flip-left">
                 <div class="single-service">
                   <div class="service-thumb">
-                    <img src="../img/products-img/Helical-gears/Helical-gears.png"
+                    <img src="img/products-img/Helical-gears/Helical-gears.png"
                       alt="HELICAL GEARS">
                   </div>
                 </div>
@@ -489,7 +489,7 @@
               <div class="col-xl-3 col-md-3" data-aos="flip-right">
                 <div class="single-service">
                   <div class="service-thumb">
-                    <img src="../img/products-img/Worm-and-Worm-wheel/worm.png"
+                    <img src="img/products-img/Worm-and-Worm-wheel/worm.png"
                       alt="WORM AND WORM WHEEL">
                   </div>
                 </div>
@@ -528,7 +528,7 @@
               <div class="col-xl-3 col-md-3" data-aos="flip-left">
                 <div class="single-service">
                   <div class="service-thumb">
-                    <img src="../img/products-img/Plastic-gears/plastic-gears.png"
+                    <img src="img/products-img/Plastic-gears/plastic-gears.png"
                       alt="PLASTIC GEARS">
                   </div>
                 </div>
@@ -562,7 +562,7 @@
               <div class="col-xl-3 col-md-3" data-aos="flip-right">
                 <div class="single-service">
                   <div class="service-thumb">
-                    <img src="../img/products-img/Hylum-gears/Hylum-gears.png"
+                    <img src="img/products-img/Hylum-gears/Hylum-gears.png"
                       alt="Bevel Gears">
                   </div>
                 </div>
@@ -675,14 +675,14 @@
 
           <!-- <div class="about-area section-padding" data-aos="zoom-out">
   <div class="pattent-bg-img">
-    <img src="../img/about/pattern.png" alt="">
+    <img src="img/about/pattern.png" alt="">
   </div>
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xl-7 col-md-12 col-lg-6" data-aos="fade-up" data-aos-anchor-placement="center-bottom"
       data-aos-duration="1500">
         <div class="about-thumb">
-          <img src="../img/about/about.jpg" alt="">
+          <img src="img/about/about.jpg" alt="">
           https://www.youtube.com/watch?v=vb9uYBtqmeM
           <a class="video-icon popup-video" href="#">
             <i class="fa fa-play"></i>
@@ -720,7 +720,7 @@
           <p class="about-text">Lorem Ipsum Lorem IpsumLorem Ipsum  simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, bu</p>
           <div class="about-author">
             <div class="autor-thumb">
-              <img src="../img/about/about-author.jpg" alt="">
+              <img src="img/about/about-author.jpg" alt="">
             </div>
             <div class="auhor-text">
               <span>Lorem Ipsum</span>
@@ -731,7 +731,7 @@
       </div>
       <div class="col-xl-5 offset-xl-1 col-md-6">
         <div class="about-review">
-          <img src="../img/about/about-project.jpg" alt="">
+          <img src="img/about/about-project.jpg" alt="">
           <div class="project-review">
             <h3>350+</h3>
             <p>Positive review</p>
@@ -755,7 +755,7 @@
             <p class="about-text">Lorem Ipsum Lorem IpsumLorem Ipsum  simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, bu</p>
             <div class="about-author">
               <div class="autor-thumb">
-                <img src="../img/about/about-author.jpg" alt="">
+                <img src="img/about/about-author.jpg" alt="">
               </div>
               <div class="auhor-text">
                 <span>Lorem Ipsum</span>
@@ -766,7 +766,7 @@
         </div>
         <div class="col-xl-5 offset-xl-1 col-md-6">
           <div class="about-review">
-            <img src="../img/about/about-project.jpg" alt="">
+            <img src="img/about/about-project.jpg" alt="">
             <div class="project-review">
               <h3>350+</h3>
               <p>Positive review</p>
@@ -790,7 +790,7 @@
             <p class="about-text">Lorem Ipsum Lorem IpsumLorem Ipsum  simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, bu</p>
             <div class="about-author">
               <div class="autor-thumb">
-                <img src="../img/about/about-author.jpg" alt="">
+                <img src="img/about/about-author.jpg" alt="">
               </div>
               <div class="auhor-text">
                 <span>Lorem Ipsum</span>
@@ -801,7 +801,7 @@
         </div>
         <div class="col-xl-5 offset-xl-1 col-md-6">
           <div class="about-review">
-            <img src="../img/about/about-project.jpg" alt="">
+            <img src="img/about/about-project.jpg" alt="">
             <div class="project-review">
               <h3>350+</h3>
               <p>Positive review</p>
@@ -836,25 +836,25 @@ data-aos-duration="2500">
                 <div class="col-xl-12">
                   <div class="brand-active owl-carousel">
                     <div class="single-brand">
-                      <img src="../img/brand/1.png" alt="">
+                      <img src="img/brand/1.png" alt="">
                     </div>
                     <div class="single-brand">
-                      <img src="../img/brand/2.png" alt="">
+                      <img src="img/brand/2.png" alt="">
                     </div>
                     <div class="single-brand">
-                      <img src="../img/brand/3.png" alt="">
+                      <img src="img/brand/3.png" alt="">
                     </div>
                     <div class="single-brand">
-                      <img src="../img/brand/4.png" alt="">
+                      <img src="img/brand/4.png" alt="">
                     </div>
                     <div class="single-brand">
-                      <img src="../img/brand/5.png" alt="">
+                      <img src="img/brand/5.png" alt="">
                     </div>
                     <div class="single-brand">
-                      <img src="../img/brand/6.png" alt="">
+                      <img src="img/brand/6.png" alt="">
                     </div>
                     <div class="single-brand">
-                      <img src="../img/brand/4.png" alt="">
+                      <img src="img/brand/4.png" alt="">
                     </div>
                   </div>
                 </div>
@@ -871,7 +871,7 @@ data-aos-duration="2500">
                   data-aos-easing="linear" data-aos-duration="2500">
                   <div class="single-address text-center">
                     <div class="addres-icon">
-                      <img src="../img/icon/1.png" alt="">
+                      <img src="img/icon/1.png" alt="">
                     </div>
                     <h3>Our Location</h3>
                     <p>Gala No. 1, Pride Industrial Estate,
@@ -884,7 +884,7 @@ data-aos-duration="2500">
                   data-aos-easing="linear" data-aos-duration="2500">
                   <div class="single-address text-center">
                     <div class="addres-icon">
-                      <img src="../img/icon/2.png" alt="">
+                      <img src="img/icon/2.png" alt="">
                     </div>
                     <h3>Opening hour</h3>
                     <p>Mon-Sat (09.00AM - 06.00PM) <br>
@@ -895,7 +895,7 @@ data-aos-duration="2500">
                   data-aos-easing="linear" data-aos-duration="2500">
                   <div class="single-address text-center">
                     <div class="addres-icon">
-                      <img src="../img/icon/3.png" alt="">
+                      <img src="img/icon/3.png" alt="">
                     </div>
                     <h3>Drop a message</h3>
                     <p><a href="#">[email&#160;protected]</a> <br>
@@ -1030,26 +1030,26 @@ data-aos-duration="2500">
           integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
           crossorigin="anonymous"></script>
 
-        <script src="../js/vendor/modernizr-3.5.0.min.js"></script>
-        <script src="../js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
         <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script> -->
         <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> -->
-        <script src="../js/slick.js"></script>
+        <script src="js/slick.js"></script>
         
         <script
-          src="../js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
+          src="js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
         <script>eval(mod_pagespeed_PoG1n$C_HZ);</script>
         <script>eval(mod_pagespeed_KcwNW7Roen);</script>
         <script
-          src="../js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
+          src="js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
         <script>eval(mod_pagespeed_jG4BmLRudT);</script>
         <script>eval(mod_pagespeed_UmJtFt2ANo);</script>
         <script>eval(mod_pagespeed_jn_UX_ZmE1);</script>
         <script>eval(mod_pagespeed_Dyv2zTIJeq);</script>
         <script>eval(mod_pagespeed_XCOqhXIiJZ);</script>
         <script
-          src="../js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
+          src="js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
         <script>eval(mod_pagespeed_KI$jPWET83);</script>
         <script>eval(mod_pagespeed_zw8pJd7bad);</script>
         <script>eval(mod_pagespeed_n$NP8fq730);</script>
@@ -1062,7 +1062,7 @@ data-aos-duration="2500">
         <script>eval(mod_pagespeed_2YC23hYHFS);</script>
         <script>eval(mod_pagespeed_C7wAzhGWxz);</script>
         <script
-          src="../js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
+          src="js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
         <script>eval(mod_pagespeed_rAc72dK4CC);</script>
         <script>eval(mod_pagespeed_eEMagb_shM);</script>
         <script>eval(mod_pagespeed_x_wJnbppy3);</script>
