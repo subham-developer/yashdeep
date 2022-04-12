@@ -597,7 +597,7 @@
             <br/>
             <br/>
                 <div class="cta-btn" style="text-align: center;">
-                    <a href="service-details.php"><button class="button button-contactForm boxed-btn">View All</button></a>
+                    <a href="service-details"><button class="button button-contactForm boxed-btn">View All</button></a>
                 </div>
                 <br/>
                 <br/>
