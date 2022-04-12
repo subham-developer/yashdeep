@@ -4,6 +4,10 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
+
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "GET,PUT,POST,DELETE"
+
 RewriteRule ^index$ views/index.php?controller=$1 [L,QSA]
 RewriteRule ^about$ views/about.php [L,QSA]
 RewriteRule ^gears$ views/gears.php [L,QSA]
