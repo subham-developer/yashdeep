@@ -79,7 +79,7 @@
               </ul>
             </nav>
             <!-- <a href="#" class="download-brouser">Download broucher</a> -->
-            <a href="gears.php" class="download-brouser">Back to Gears</a>
+            <a href="gears" class="download-brouser">Back to Gears</a>
           </div>
         </div>
         <div class="col-xl-8">
