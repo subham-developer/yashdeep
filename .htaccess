@@ -1,0 +1,62 @@
+RewriteEngine On
+RewriteBase /
+
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "GET,PUT,POST,DELETE"
+
+###### Abinbev Season 1 URLs Starts Here  ######
+
+RewriteRule "^season-1/home$" mc/webinar/abinbev [L,NC,QSA]
+RewriteRule "^msite/abinbev-article-page/(.*).html$" mc/webinar/abinbev_article_page?article_id=$1 [L,NC,QSA]
+RewriteRule "^season-1/abinbev_summit$" mc/webinar/abinbev_summit [L,NC,QSA]
+RewriteRule "^season-1/about_abinbev$" mc/webinar/about_abinbev [L,NC,QSA]
+RewriteRule "^season-1/about_network18$" mc/webinar/about_net18 [L,NC,QSA]
+RewriteRule "^season-1/about_sustainability100plus$" mc/webinar/about_sustanability [L,NC,QSA]
+RewriteRule "^season-1/contact$" mc/webinar/abinbev_contact [L,NC,QSA]
+RewriteRule "^season-1/masterclass-sustainability-for-the-aam-aadmi$" mc/webinar/abinbev_summit_for_aam_aadmi [L,NC,QSA]
+RewriteRule "^season-1/the-sustainable-sense-in-branding$" mc/webinar/the_sustainable_sense_in_branding [L,NC,QSA]
+RewriteRule "^season-1/roadmap$" mc/webinar/roadmap [L,NC,QSA]
+RewriteRule "^season-1/upcoming-events$" mc/webinar/upcoming_events [L,NC,QSA]
+RewriteRule "^season-1/past-events$" mc/webinar/past_events [L,NC,QSA]
+RewriteRule "^season-1/video-list$" mc/webinar/video_list [L,NC,QSA]
+RewriteRule "^msite/season-1/abinbev-video-page/(.*).html$" mc/webinar/abinbev_video_article_page?article_id=$1 [L,NC,QSA]
+RewriteRule "^season-1/article-list$" mc/webinar/article_list [L,NC,QSA]
+RewriteRule "^season-1/sustainability-champions/haryana$" mc/webinar/sustainable_champions_haryana [L,NC,QSA]
+RewriteRule "^season-1/sustainability-champions/maharashtra$" mc/webinar/sustainable_champions_maharashtra [L,NC,QSA]
+RewriteRule "^season-1/sustainability-champions/karnataka$" mc/webinar/sustainable_champions_karnataka [L,NC,QSA]
+RewriteRule "^season-1/sustainability-champions/telangana$" mc/webinar/sustainable_champions_telangana [L,NC,QSA]
+RewriteRule "^season-1/smart-agriculture$" mc/webinar/smart_agriculture [L,NC,QSA]
+RewriteRule "^season-1/climate-action$" mc/webinar/climate_action [L,NC,QSA]
+RewriteRule "^season-1/water-stewardship$" mc/webinar/water_stewardship [L,NC,QSA]
+RewriteRule "^season-1/circular-packaging$" mc/webinar/circular_packaging [L,NC,QSA]
+RewriteRule "^season-1/putting-the-s-in-esg$" mc/webinar/putting_the_s_in_esg [L,NC,QSA]
+RewriteRule "^season-1/haryana-roundtable$" mc/webinar/haryana_roundtable [L,NC,QSA]
+RewriteRule "^season-1/telangana-roundtable$" mc/webinar/telangana_roundtable [L,NC,QSA]
+RewriteRule "^season-1/transition-to-sustainable-sourcing-in-agro$" mc/webinar/transition_to_sustainable [L,NC,QSA]
+RewriteRule "^msite/new-page$" mc/webinar/testing [L,NC,QSA]
+RewriteRule "^msite/test-page$" mc/webinar/showtestpage [L,NC,QSA]
+RewriteRule "^season-1/india-unites-to-tackle-second-wave-of-COVID-19/$" mc/webinar/India_2wave_covid19 [L,NC,QSA]
+RewriteRule "^season-1/maharashtra-roundtable$" mc/webinar/maharashtra_roundtable [L,NC,QSA]
+RewriteRule "^season-1/karnataka-roundtable$" mc/webinar/karnataka_roundtable [L,NC,QSA]
+RewriteRule "^season-1/summit/$" mc/webinar/sustainability_summit [L,NC,QSA]
+
+#############################
+### Live Webinar -> Start ###
+#############################
+RewriteRule "^season-1/live-webinar/.*-([0-9]+)\.html" /mc/live_webinar/?live_webinar_id=$1 [L,NC,QSA]
+
+###### Abinbev Season 1 URLs Ends Here  ######
+
+
+
+
+###### Abinbev Season 2 URLs Starts Here  ######
+
+RewriteRule "^$" mc/season2/season2_home [L,NC,QSA]
+RewriteRule "^abinbev-article-page/(.*).html$" mc/season2/season2_articles?article_id=$1 [L,NC,QSA]
+RewriteRule "^registration$" mc/season2/season2_reg_page [L,NC,QSA]
+RewriteRule "^about_sustainability100plus$" mc/season2/about_sustainability [L,NC,QSA]
+RewriteRule "^about_abinbev$" mc/season2/about_abinbev [L,NC,QSA]
+RewriteRule "^about_network18$" mc/season2/about_network18 [L,NC,QSA]
+
+###### Abinbev Season 2 URLs Ends Here  ######
