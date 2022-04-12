@@ -3,165 +3,14 @@
 
 <!-- Mirrored from preview.colorlib.com/theme/durg/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jan 2022 15:15:06 GMT -->
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>YASHDEEP ENGINEERING SERVICES</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <link rel="shortcut icon" type="image/x-icon" href="img/xfavicon.png.pagespeed.ic.ije3VJtCFT.png">
-
-
-  <link rel="stylesheet" href="css/bootstrap.css" />
-  <link rel="stylesheet" href="css/style.css">
-
-  <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-  <script>(function (w, d) {
-      !function (a, e, t, r, z) {
-        a.zarazData = a.zarazData || {}, a.zarazData.executed = [], a.zarazData.tracks = [], a.zaraz = { deferred: [] }; var s = e.getElementsByTagName("title")[0]; a.zarazData.c = e.cookie, s && (a.zarazData.t = e.getElementsByTagName("title")[0].text), a.zarazData.w = a.screen.width, a.zarazData.h = a.screen.height, a.zarazData.j = a.innerHeight, a.zarazData.e = a.innerWidth, a.zarazData.l = a.location.href, a.zarazData.r = e.referrer, a.zarazData.k = a.screen.colorDepth, a.zarazData.n = e.characterSet, a.zarazData.o = (new Date).getTimezoneOffset(),//
-          a.dataLayer = a.dataLayer || [], a.zaraz.track = (e, t) => { for (key in a.zarazData.tracks.push(e), t) a.zarazData["z_" + key] = t[key] }, a.zaraz._preSet = [], a.zaraz.set = (e, t, r) => { a.zarazData["z_" + e] = t, a.zaraz._preSet.push([e, t, r]) }, a.dataLayer.push({ "zaraz.start": (new Date).getTime() }), a.addEventListener("DOMContentLoaded", (() => { var t = e.getElementsByTagName(r)[0], z = e.createElement(r); z.defer = !0, z.src = "https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(a.zarazData))), t.parentNode.insertBefore(z, t) }))
-      }(w, d, 0, "script");
-    })(window, document);</script>
-</head>
+<?php
+  include ('./includes/header.php')
+?>
 
 <body>
-  <!--[if lte IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-        <![endif]-->
-
-        <header>
-          <div class="header-area">
-            <div class="header-top black-bg d-none d-md-block">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="header-contact">
-                      <a href="#"><i class="fa fa-phone"></i> +91-7304343004 |
-                        +91-7506306663</a>
-                      <a href="#"><i class="fa fa-envelope"></i> <span class="__cf_email__">info@yashdeep.net</span></a>
-                    </div>
-                  </div>
-                  <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="header-top-menu">
-                      <nav>
-                        <ul>
-                          <!-- <li><a href="blog.html">News & media</a></li> -->
-                          <li><a href="review.html">Review</a></li>
-                          <!-- <li><a href="faq.html">FAQ</a></li> -->
-                        </ul>
-                      </nav>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div id="sticky-header" class="main-header-area white-bg">
-              <div class="container">
-                <div class="row align-items-center">
-                  <div class="col-xl-2 col-lg-2">
-                    <div class="logo-img animate__animated" data-aos="flip-right" data-aos-duration="2000">
-                      <a href="index.html">
-                        <img src="img/logo/logo_1.png" alt="">
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-xl-7 col-lg-7">
-                    <div class="main-menu d-none d-lg-block">
-                      <nav>
-                        <ul id="navigation">
-                          <li><a class="active" href="index.html">Home</a></li>
-                          <li><a href="about.html">About</a></li>
-                          <!-- <li><a href="service-details.html">Our Proucts <i class="ti-angle-down"></i></a>
-                            <ul class="submenu">
-                              <li><a href="#">Spur Gears</a></li>
-                              <li><a href="#">Helical Gears</a></li>
-                              <li><a href="#">Bevel Gears</a></li>
-                              <li><a href="#">Worm and Worm Wheel</a></li>
-                              <li><a href="#">Plastic Gears</a></li>
-                              <li><a href="#">Hylum Gears</a></li>
-                              <li><a href="#">Timer Pulleys</a></li>
-                              <li><a href="#">Sprockets</a></li>
-                              <li><a href="#">Cams</a></li>
-                              <li><a href="#">Collets</a></li>
-                            </ul>
-                          </li> -->
-                          <li><a href="#">Our Products <i class="ti-angle-down"></i></a>
-                            <ul class="submenu">
-                              <li><a href="gears.html">Gears</a></li>
-                              <li><a href="machinery-and-gears">Machinery Parts & Gears</a></li>
-                              <!-- <li><a href="#">Machinery & Plants</a></li> -->
-                              <!-- <li><a href="#">Bevel Gears</a></li>
-                              <li><a href="#">Worm and Worm Wheel</a></li>
-                              <li><a href="#">Plastic Gears</a></li>
-                              <li><a href="#">Hylum Gears</a></li>
-                              <li><a href="#">Timer Pulleys</a></li>
-                              <li><a href="#">Sprockets</a></li>
-                              <li><a href="#">Cams</a></li>
-                              <li><a href="#">Collets</a></li> -->
-                            </ul>
-                          </li>
-                          <!-- <li><a href="service.html">Services</a></li> -->
-                          <!-- <li><a href="project.html">Projects</a></li> -->
-                          <!-- <li><a href="#">blog <i class="ti-angle-down"></i></a>
-      <ul class="submenu">
-      <li><a href="blog.html">blog</a></li>
-      <li><a href="single-blog.html">single-blog</a></li>
-      </ul>
-      </li> -->
-                          <!-- <li><a href="#">pages <i class="ti-angle-down"></i></a>
-      <ul class="submenu">
-      <li><a href="elements.html">elements</a></li>
-      <li><a href="service-details.html">service-details</a></li>
-      <li><a href="project-details.html">project-details</a></li>
-      </ul>
-      </li> -->
-                          <li><a href="contact.html">Contact</a></li>
-                        </ul>
-                      </nav>
-                    </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-3">
-                    <div class="quote-area">
-                      <div class="search-bar">
-                        <!-- <a id="search_1" href="javascript:void(0)"><i class="fa
-                              fa-search"></i></a> -->
-                      </div>
-                      <div class="get-quote d-none d-lg-block">
-                        <!-- <a class="boxed-btn" href="#" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
-                          data-toggle="modal" data-target="#exampleModal" data-aos="flip-left"
-                          data-aos-easing="ease-out-cubic" data-aos-duration="2000">Get a quote</a> -->
-                        <!-- <button type="button" class="boxed-btn" data-toggle="modal" data-target="#exampleModal" data-aos="flip-left"
-                        data-aos-easing="ease-out-cubic"
-                        data-aos-duration="2000">
-                          Get a quote
-                        </button> -->
-                        <button type="button" class="boxed-btn" >
-                          Get a quote
-                        </button>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-12">
-                    <div class="mobile_menu d-block d-lg-none"></div>
-                  </div>
-                </div>
-                <div class="search_input" id="search_input_box">
-                  <div class="container">
-                    <form class="d-flex justify-content-between search-inner">
-                      <input type="text" class="form-control" id="search_input" placeholder="Search Here">
-                      <button type="submit" class="btn"></button>
-                      <span class="fa fa-close" id="close_search" title="Close
-                          Search"></span>
-                    </form>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </header>
+<?php 
+  include('./includes/navbar.php')
+?>
 
 
   <section class="breadcrumb breadcrumb_bg banner-bg-1 overlay2 ptb200">
@@ -186,7 +35,7 @@
         <!-- <div class="col-xl-7 col-md-12 col-lg-6" data-aos="fade-up" data-aos-anchor-placement="center-bottom"
           data-aos-duration="1500">
           <div class="about-thumb">
-            <img src="img/about/indian_face_2.jpg" alt="">
+            <img src="../img/about/indian_face_2.jpg" alt="">
             https://www.youtube.com/watch?v=vb9uYBtqmeM
             <a class="video-icon popup-video" href="#">
               <i class="fa fa-play"></i>
@@ -226,7 +75,7 @@
               </ul>
             <!-- </div> -->
             <div class="name">
-              <!-- <img src="img/about/name.png" alt=""> -->
+              <!-- <img src="../img/about/name.png" alt=""> -->
             </div>
           </div>
         </div>
@@ -241,7 +90,7 @@
 <div class="col-xl-4 col-md-4">
 <div class="single-counter">
 <div class="icon">
-<img src="img/icon/conunter-icon.png" alt="">
+<img src="../img/icon/conunter-icon.png" alt="">
 </div>
 <div class="counter-number">
 <h3><span class="counter">400</span><span>+</span></h3>
@@ -252,7 +101,7 @@
 <div class="col-xl-4 col-md-4">
 <div class="single-counter">
 <div class="icon">
-<img src="img/icon/conunter-icon2.png" alt="">
+<img src="../img/icon/conunter-icon2.png" alt="">
 </div>
 <div class="counter-number">
 <h3><span class="counter">30</span><span>+</span></h3>
@@ -263,7 +112,7 @@
 <div class="col-xl-4 col-md-4">
 <div class="single-counter">
 <div class="icon">
-<img src="img/icon/conunter-icon3.png" alt="">
+<img src="../img/icon/conunter-icon3.png" alt="">
 </div>
 <div class="counter-number">
 <h3><span class="counter">350</span><span>+</span></h3>
@@ -292,7 +141,7 @@ is fish whales winged.
 </div>
 <div class="col-xl-7 col-md-12 col-lg-6">
 <div class="about-thumb">
-<img src="img/about/1.jpg" alt="">
+<img src="../img/about/1.jpg" alt="">
 </div>
 </div>
 </div>
@@ -312,7 +161,7 @@ is fish whales winged.
 <div class="col-xl-4 col-lg-4 col-md-6">
 <div class="single-team">
 <div class="team-thumb">
-<img src="img/team/2.jpg" alt="">
+<img src="../img/team/2.jpg" alt="">
 <div class="team-hover">
 <div class="team-link">
 <ul>
@@ -332,7 +181,7 @@ is fish whales winged.
 <div class="col-xl-4 col-lg-4 col-md-6">
 <div class="single-team">
 <div class="team-thumb">
-<img src="img/team/3.jpg" alt="">
+<img src="../img/team/3.jpg" alt="">
 <div class="team-hover">
 <div class="team-link">
 <ul>
@@ -352,7 +201,7 @@ is fish whales winged.
 <div class="col-xl-4 col-lg-4 col-md-6">
 <div class="single-team">
 <div class="team-thumb">
-<img src="img/team/4.jpg" alt="">
+<img src="../img/team/4.jpg" alt="">
 <div class="team-hover">
 <div class="team-link">
 <ul>
@@ -394,7 +243,7 @@ is fish whales winged.
 very one. Whales grass is fish whales winged.</p>
 <div class="about-author">
 <div class="autor-thumb">
-<img src="img/about/xabout-author.jpg.pagespeed.ic.4Xqw9T1uo2.jpg" alt="">
+<img src="../img/about/xabout-author.jpg.pagespeed.ic.4Xqw9T1uo2.jpg" alt="">
 </div>
 <div class="auhor-text">
 <span>Jon Snow</span>
@@ -405,7 +254,7 @@ very one. Whales grass is fish whales winged.</p>
 </div>
 <div class="col-xl-5 offset-xl-1 col-md-6">
 <div class="about-review">
-<img src="img/about/about-project.jpg" alt="">
+<img src="../img/about/about-project.jpg" alt="">
 <div class="project-review">
 <h3>350+</h3>
 <p>Positive review</p>
@@ -430,7 +279,7 @@ very one. Whales grass is fish whales winged.</p>
 very one. Whales grass is fish whales winged.</p>
 <div class="about-author">
 <div class="autor-thumb">
-<img src="img/about/xabout-author.jpg.pagespeed.ic.4Xqw9T1uo2.jpg" alt="">
+<img src="../img/about/xabout-author.jpg.pagespeed.ic.4Xqw9T1uo2.jpg" alt="">
 </div>
 <div class="auhor-text">
 <span>Jon Snow</span>
@@ -441,7 +290,7 @@ very one. Whales grass is fish whales winged.</p>
 </div>
 <div class="col-xl-5 offset-xl-1 col-md-6">
 <div class="about-review">
-<img src="img/about/about-project.jpg" alt="">
+<img src="../img/about/about-project.jpg" alt="">
 <div class="project-review">
 <h3>350+</h3>
 <p>Positive review</p>
@@ -466,7 +315,7 @@ very one. Whales grass is fish whales winged.</p>
 very one. Whales grass is fish whales winged.</p>
 <div class="about-author">
 <div class="autor-thumb">
-<img src="img/about/xabout-author.jpg.pagespeed.ic.4Xqw9T1uo2.jpg" alt="">
+<img src="../img/about/xabout-author.jpg.pagespeed.ic.4Xqw9T1uo2.jpg" alt="">
 </div>
 <div class="auhor-text">
 <span>Jon Snow</span>
@@ -477,7 +326,7 @@ very one. Whales grass is fish whales winged.</p>
 </div>
 <div class="col-xl-5 offset-xl-1 col-md-6">
 <div class="about-review">
-<img src="img/about/about-project.jpg" alt="">
+<img src="../img/about/about-project.jpg" alt="">
 <div class="project-review">
 <h3>350+</h3>
 <p>Positive review</p>
@@ -515,7 +364,7 @@ fish <br> whales winged.</p>
         <div class="col-xl-4 col-md-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
           <div class="single-address text-center">
             <div class="addres-icon">
-              <img src="img/icon/1.png" alt="">
+              <img src="../img/icon/1.png" alt="">
             </div>
             <h3>Our Location</h3>
             <p>Gala No. 1, Pride Industrial Estate,
@@ -527,7 +376,7 @@ fish <br> whales winged.</p>
         <div class="col-xl-4 col-md-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
           <div class="single-address text-center">
             <div class="addres-icon">
-              <img src="img/icon/2.png" alt="">
+              <img src="../img/icon/2.png" alt="">
             </div>
             <h3>Opening hour</h3>
             <p>Mon-Fri (9.00-19.00) <br>
@@ -537,7 +386,7 @@ fish <br> whales winged.</p>
         <div class="col-xl-4 col-md-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
           <div class="single-address text-center">
             <div class="addres-icon">
-              <img src="img/icon/3.png" alt="">
+              <img src="../img/icon/3.png" alt="">
             </div>
             <h3>Drop a message</h3>
             <p><a href="#">[email&#160;protected]</a> <br>
@@ -572,91 +421,9 @@ fish <br> whales winged.</p>
 
 
 
-  <footer class="footer-area">
-    <div class="container" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="2500">
-      <div class="row justify-content-between">
-        <div class="col-sm-6 col-md-3 col-xl-4">
-          <div class="single-footer-widget footer_1">
-            <a href="index.html"> <img src="img/logo/logo_1.png" alt=""> </a>
-            <p>YASHDEEP GEARS is a branch of YASHDEEP ENGINEERING SERVICES, providing services in various fields of
-              engineering like Food, Pharmaceutical and Packaging industries.</p>
-            <div class="social-links">
-              <ul>
-                <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-2 col-xl-2">
-          <div class="single-footer-widget">
-            <h4>Company</h4>
-            <ul>
-              <li><a href="about.html">About</a></li>
-              <li><a href="#">Media</a></li>
-              <li><a href="#">Carrier</a></li>
-              <li><a href="#">Testimonials</a></li>
-              <li><a href="#">Stability</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-3 col-xl-3">
-          <div class="single-footer-widget">
-            <h4>Solutions</h4>
-            <ul>
-              <li><a href="gears.html">Gear Solutions</a></li>
-              <li><a href="#">Machinery Solutions</a></li>
-              <!-- <li><a href="#">Industrial problems</a></li>
-              <li><a href="#"> Construction solution</a></li>
-              <li><a href="#">Car manufacturing</a></li>
-              <li><a href="#">Mechanical problems</a></li> -->
-            </ul>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-3 col-xl-3">
-          <div class="single-footer-widget footer_icon">
-            <h4>Branch office</h4>
-            <div class="office-location">
-              <ul>
-                <li>
-                  <strong>Maharashtra - India.</strong>
-                  <p>Gala No. 1, Pride Industrial Estate,
-                    Sativali road, Next to Waliv
-                    Phata, Vasai (E), Palghar - 401 208.<br>
-                    +91-7304343004 | 7506306663</p>
-                </li>
-                <!-- <li>
-  <strong>New York - USA</strong>
-  <p>127, Manchaster city, London <br>
-  +008 728 362 278</p>
-  </li> -->
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container-fluid" data-aos="zoom-in-up" data-aos-anchor-placement="center-bottom"
-      data-aos-duration="1500">
-      <div class="row justify-content-center">
-        <div class="col-lg-12">
-          <div class="copyright_part_text text-center">
-            <hr/>
-            <p class="footer-text m-0">
-              Copyright &copy;
-              <script data-cfasync="false" src="#"></script>
-              <script>document.write(new Date().getFullYear());</script> All rights reserved | YASHDEEP ENGINEERING
-              SERVICES.
-              <!-- <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank"> -->
-
-              </a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
+  <?php
+  include('./includes/footer.php');
+  ?>
 
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
@@ -684,20 +451,20 @@ fish <br> whales winged.</p>
   </script>
 
 
-  <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-  <script src="js/vendor/jquery-1.12.4.min.js"></script>
-  <script src="js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
+  <script src="../js/vendor/modernizr-3.5.0.min.js"></script>
+  <script src="../js/vendor/jquery-1.12.4.min.js"></script>
+  <script src="../js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
   <script>eval(mod_pagespeed_PoG1n$C_HZ);</script>
   <script>eval(mod_pagespeed_KcwNW7Roen);</script>
   <script
-    src="js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
+    src="../js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
   <script>eval(mod_pagespeed_jG4BmLRudT);</script>
   <script>eval(mod_pagespeed_UmJtFt2ANo);</script>
   <script>eval(mod_pagespeed_jn_UX_ZmE1);</script>
   <script>eval(mod_pagespeed_Dyv2zTIJeq);</script>
   <script>eval(mod_pagespeed_XCOqhXIiJZ);</script>
   <script
-    src="js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
+    src="../js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
   <script>eval(mod_pagespeed_KI$jPWET83);</script>
   <script>eval(mod_pagespeed_zw8pJd7bad);</script>
   <script>eval(mod_pagespeed_n$NP8fq730);</script>
@@ -710,7 +477,7 @@ fish <br> whales winged.</p>
   <script>eval(mod_pagespeed_2YC23hYHFS);</script>
   <script>eval(mod_pagespeed_C7wAzhGWxz);</script>
   <script
-    src="js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
+    src="../js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
   <script>eval(mod_pagespeed_rAc72dK4CC);</script>
   <script>eval(mod_pagespeed_eEMagb_shM);</script>
   <script>eval(mod_pagespeed_x_wJnbppy3);</script>

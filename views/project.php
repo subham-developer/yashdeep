@@ -1,115 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<!-- Mirrored from preview.colorlib.com/theme/durg/project.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jan 2022 15:15:16 GMT -->
-<head>
-<meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>DURG Indudtry Template by Colorlib</title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="shortcut icon" type="image/x-icon" href="img/xfavicon.png.pagespeed.ic.ije3VJtCFT.png">
-
-
-<link rel="stylesheet" href="css/A.bootstrap.min.css%2bowl.carousel.min.css%2bmagnific-popup.css%2bfont-awesome.min.css%2bthemify-icons.css%2bnice-select.css%2bflaticon.css%2banimate.css%2bslicknav.css%2cMcc.dhf9UV6r4M.css.pagespeed.cf.2bcGu" />
-<link rel="stylesheet" href="css/style.css">
-
-<script>(function(w,d){!function(a,e,t,r,z){a.zarazData=a.zarazData||{},a.zarazData.executed=[],a.zarazData.tracks=[],a.zaraz={deferred:[]};var s=e.getElementsByTagName("title")[0];a.zarazData.c=e.cookie,s&&(a.zarazData.t=e.getElementsByTagName("title")[0].text),a.zarazData.w=a.screen.width,a.zarazData.h=a.screen.height,a.zarazData.j=a.innerHeight,a.zarazData.e=a.innerWidth,a.zarazData.l=a.location.href,a.zarazData.r=e.referrer,a.zarazData.k=a.screen.colorDepth,a.zarazData.n=e.characterSet,a.zarazData.o=(new Date).getTimezoneOffset(),//
-a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.push(e),t)a.zarazData["z_"+key]=t[key]},a.zaraz._preSet=[],a.zaraz.set=(e,t,r)=>{a.zarazData["z_"+e]=t,a.zaraz._preSet.push([e,t,r])},a.dataLayer.push({"zaraz.start":(new Date).getTime()}),a.addEventListener("DOMContentLoaded",(()=>{var t=e.getElementsByTagName(r)[0],z=e.createElement(r);z.defer=!0,z.src="https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(a.zarazData))),t.parentNode.insertBefore(z,t)}))}(w,d,0,"script");})(window,document);</script></head>
+<?php
+  include('./includes/header.php');
+?>
 <body>
-<!--[if lte IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-        <![endif]-->
-
-<header>
-<div class="header-area ">
-<div class="header-top black-bg d-none d-md-block">
-<div class="container">
-<div class="row">
-<div class="col-xl-6 col-md-6 col-lg-6">
-<div class="header-contact">
-<a href="#"><i class="fa fa-phone"></i> +880 256 356 256</a>
-<a href="#"><i class="fa fa-envelope"></i> <span class="__cf_email__" data-cfemail="80f3f5f0f0eff2f4b2b4c0e4f5f2e7aee3efed">[email&#160;protected]</span></a>
-</div>
-</div>
-<div class="col-xl-6 col-md-6 col-lg-6">
-<div class="header-top-menu">
-<nav>
-<ul>
-<li><a href="blog.html">News & media</a></li>
-<li><a href="review.html">Review</a></li>
-<li><a href="faq.html">FAQ</a></li>
-</ul>
-</nav>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="sticky-header" class="main-header-area white-bg">
-<div class="container">
-<div class="row align-items-center">
-<div class="col-xl-2 col-lg-2">
-<div class="logo-img">
-<a href="index.html">
-<img src="img/xlogo.png.pagespeed.ic.ije3VJtCFT.png" alt="">
-</a>
-</div>
-</div>
-<div class="col-xl-7 col-lg-7">
-<div class="main-menu d-none d-lg-block">
-<nav>
-<ul id="navigation">
-<li><a href="index.html">Home</a></li>
-<li><a href="about.html">About</a></li>
-<li><a href="service.html">Services</a></li>
-<li><a class="active" href="project.html">Projects</a></li>
-<li><a href="#">blog <i class="ti-angle-down"></i></a>
-<ul class="submenu">
-<li><a href="blog.html">blog</a></li>
-<li><a href="single-blog.html">single-blog</a></li>
-</ul>
-</li>
-<li><a href="#">pages <i class="ti-angle-down"></i></a>
-<ul class="submenu">
-<li><a href="elements.html">elements</a></li>
-<li><a href="service-details.html">service-details</a></li>
-<li><a href="project-details.html">project-details</a></li>
-</ul>
-</li>
-<li><a href="contact.html">Contact</a></li>
-</ul>
-</nav>
-</div>
-</div>
-<div class="col-xl-3 col-lg-3">
-<div class="quote-area">
-<div class="search-bar">
-<a id="search_1" href="javascript:void(0)"><i class="fa fa-search"></i></a>
-</div>
-<div class="get-quote d-none d-lg-block">
-<a class="boxed-btn" href="#">Get a quote</a>
-</div>
-</div>
-</div>
-<div class="col-12">
-<div class="mobile_menu d-block d-lg-none"></div>
-</div>
-</div>
-<div class="search_input" id="search_input_box">
-<div class="container ">
-<form class="d-flex justify-content-between search-inner">
-<input type="text" class="form-control" id="search_input" placeholder="Search Here">
-<button type="submit" class="btn"></button>
-<span class="fa fa-close" id="close_search" title="Close Search"></span>
-</form>
-</div>
-</div>
-</div>
-</div>
-</div>
-</header>
+<?php 
+  include('./includes/navbar.php')
+?>
 
 
 <section class="breadcrumb breadcrumb_bg banner-bg-1 overlay2 ptb200">
@@ -134,7 +32,7 @@ a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="img/project/project-1.png" alt="">
+<img src="../img/project/project-1.png" alt="">
 </div>
 <div class="project-info">
 <span>Industrial construction</span>
@@ -145,7 +43,7 @@ a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="img/project/project-2.png" alt="">
+<img src="../img/project/project-2.png" alt="">
 </div>
 <div class="project-info">
 <span>Machine engineering</span>
@@ -156,7 +54,7 @@ a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="img/project/project-3.png" alt="">
+<img src="../img/project/project-3.png" alt="">
 </div>
 <div class="project-info">
 <span>Industrial construction</span>
@@ -167,7 +65,7 @@ a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="img/project/project-4.png" alt="">
+<img src="../img/project/project-4.png" alt="">
 </div>
 <div class="project-info">
 <span>Machine engineering</span>
@@ -178,7 +76,7 @@ a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="img/project/project-5.png" alt="">
+<img src="../img/project/project-5.png" alt="">
 </div>
 <div class="project-info">
 <span>Industrial construction</span>
@@ -189,7 +87,7 @@ a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.
 <div class="col-xl-6 col-md-6">
 <div class="single-project">
 <div class="project-thumb">
-<img src="img/project/project-6.png" alt="">
+<img src="../img/project/project-6.png" alt="">
 </div>
 <div class="project-info">
 <span>Machine engineering</span>
@@ -226,7 +124,7 @@ fish <br> whales winged.</p>
 <div class="col-xl-4 col-md-4">
 <div class="single-address text-center">
 <div class="addres-icon">
-<img src="img/icon/x1.png.pagespeed.ic.HBj1zWf24z.png" alt="">
+<img src="../img/icon/x1.png.pagespeed.ic.HBj1zWf24z.png" alt="">
 </div>
 <h3>Our Location</h3>
 <p>127, Manchaster city, London <br>
@@ -237,7 +135,7 @@ fish <br> whales winged.</p>
 <div class="col-xl-4 col-md-4">
 <div class="single-address text-center">
 <div class="addres-icon">
-<img src="img/icon/x2.png.pagespeed.ic.5zTzGhP4O0.png" alt="">
+<img src="../img/icon/x2.png.pagespeed.ic.5zTzGhP4O0.png" alt="">
 </div>
 <h3>Opening hour</h3>
 <p>Mon-Fri (9.00-19.00) <br>
@@ -247,7 +145,7 @@ Sat-Sun <a class="underline-hover" href="#">(Closed)</a></p>
 <div class="col-xl-4 col-md-4">
 <div class="single-address text-center">
 <div class="addres-icon">
-<img src="img/icon/x3.png.pagespeed.ic.lk9LWawdzI.png" alt="">
+<img src="../img/icon/x3.png.pagespeed.ic.lk9LWawdzI.png" alt="">
 </div>
 <h3>Drop a message</h3>
 <p><a href="https://preview.colorlib.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94e7e1e4e4fbe6e0d4f0e1e6f3baf7fbf9">[email&#160;protected]</a> <br>
@@ -265,7 +163,7 @@ Sat-Sun <a class="underline-hover" href="#">(Closed)</a></p>
 <div class="row justify-content-between">
 <div class="col-sm-6 col-md-3 col-xl-4">
 <div class="single-footer-widget footer_1">
-<a href="index.html"> <img src="img/xfooter-logo.png.pagespeed.ic.FfjQbLQYbf.png" alt=""> </a>
+<a href="index.html"> <img src="../img/xfooter-logo.png.pagespeed.ic.FfjQbLQYbf.png" alt=""> </a>
 <p>Waters make fish every without firmament saw had. Morning air subdue very one. Whales grass
 is fish whales winged.</p>
 <div class="social-links">
