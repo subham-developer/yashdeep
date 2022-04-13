@@ -1,7 +1,9 @@
 Options +FollowSymLinks
 RewriteEngine on
+RewriteRule ^$ /views/ [L]
 
-RewriteCond %{REQUEST_FILENAME} !-f
+Options +SymLinksIfOwnerMatch 
+RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d
 
 
