@@ -6,8 +6,8 @@
     // print_r($_POST);
     // exit;
 
-    print_r($_POST);
-    exit;
+    // print_r($_POST);
+    header('Location: '.'/index');
 
 
 ?>

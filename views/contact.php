@@ -729,6 +729,7 @@
     <script>
         // alert("Hello");
         $('.button-contactForm').click(function () {
+            e.preventDefault();
             message = $('#message').val();
             name = $('#name').val();
             email = $('#email').val();
