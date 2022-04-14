@@ -115,6 +115,7 @@
               <!-- Spur Gears -->
               <div class="tab-pane fade" id="collets" role="tabpanel" aria-labelledby="home-tab">
                 <div class="details-wrap">
+                  
                   <div class="details-thumb">
                     <img src="img/products-img/collets/IMG_1830.CR3.jpg" alt="">
                   </div>
