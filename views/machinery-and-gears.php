@@ -37,6 +37,10 @@
                   <a class="nav-link active show" id="home-tab" data-toggle="tab" href="#spur-gears" role="tab"
                     aria-controls="home" aria-selected="true">Machinery Parts & Gears</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link active show" id="home-tab" data-toggle="tab" href="#collets" role="tab"
+                    aria-controls="home" aria-selected="true">Collets</a>
+                </li>
                 <!-- <li class="nav-item">
                   <a class="nav-link" id="profile-tab" data-toggle="tab" href="#helical-gears" role="tab"
                     aria-controls="profile" aria-selected="false">Helical Gears</a>
@@ -89,6 +93,37 @@
                     <p>Upto 2 TONS</p>
                     <p>2 TONS to 5 TONS</p>
                     <p>5 TONS to 10 TONS</p>
+                  </div>
+                  <!-- <div class="details-info">
+                    <h3>Size</h3>
+                    <p>10mm to 600 mm Outer dia. And upto 500mm Cutting Length.
+                    </p>
+                  </div>
+                  <div class="details-info">
+                    <h3>Module</h3>
+                    <p>0.5 to 6.0
+                    </p>
+                  </div>
+                  <div class="details-info">
+                    <h3>D.P. (Diametral pitch)</h3>
+                    <p>51 to 4
+                    </p>
+                  </div> -->
+                </div>
+              </div>
+              <!-- Ends Here -->
+              <!-- Spur Gears -->
+              <div class="tab-pane fade show active" id="collets" role="tabpanel" aria-labelledby="home-tab">
+                <div class="details-wrap">
+                  <div class="details-thumb">
+                    <img src="img/products-img/collets/IMG_1830.CR3.jpg" alt="">
+                  </div>
+                  <div class="details-info">
+                    <!-- <h3>MATERIALS BASE PADS</h3> -->
+                    <p>We manufacture and supply various types of collets as per customers requirements.
+Some collets are shown here </p>
+                    <!-- <p>2 TONS to 5 TONS</p> -->
+                    <!-- <p>5 TONS to 10 TONS</p> -->
                   </div>
                   <!-- <div class="details-info">
                     <h3>Size</h3>
