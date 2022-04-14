@@ -38,7 +38,7 @@
                     aria-controls="home" aria-selected="true">Machinery Parts & Gears</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active show" id="home-tab" data-toggle="tab" href="#collets" role="tab"
+                  <a class="nav-link" id="home-tab" data-toggle="tab" href="#collets" role="tab"
                     aria-controls="home" aria-selected="true">Collets</a>
                 </li>
                 <!-- <li class="nav-item">
@@ -83,7 +83,7 @@
           <div class="single-details">
             <div class="tab-content" id="myTabContent">
               <!-- Spur Gears -->
-              <div class="tab-pane fade show active" id="spur-gears" role="tabpanel" aria-labelledby="home-tab">
+              <div class="tab-pane fade active show" id="spur-gears" role="tabpanel" aria-labelledby="home-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
                     <img src="img/products-img/machine-pads/IMG_1826.jpg" alt="">
@@ -113,7 +113,7 @@
               </div>
               <!-- Ends Here -->
               <!-- Spur Gears -->
-              <div class="tab-pane fade show active" id="collets" role="tabpanel" aria-labelledby="home-tab">
+              <div class="tab-pane fade" id="collets" role="tabpanel" aria-labelledby="home-tab">
                 <div class="details-wrap">
                   <div class="details-thumb">
                     <img src="img/products-img/collets/IMG_1830.CR3.jpg" alt="">
