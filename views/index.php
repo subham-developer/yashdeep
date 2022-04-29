@@ -1025,10 +1025,7 @@ data-aos-duration="2500">
 
 
         <!-- JavaScript Bundle with Popper -->
-        <script
-          src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-          integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-          crossorigin="anonymous"></script>
+        
 
         <script src="js/vendor/modernizr-3.5.0.min.js"></script>
         <script src="js/vendor/jquery-1.12.4.min.js"></script>
@@ -1037,52 +1034,7 @@ data-aos-duration="2500">
         <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> -->
         <script src="js/slick.js"></script>
         
-        <script
-          src="js/popper.min.js%2bbootstrap.min.js.pagespeed.jc.ev-9vn-kCc.js"></script>
-        <script>eval(mod_pagespeed_PoG1n$C_HZ);</script>
-        <script>eval(mod_pagespeed_KcwNW7Roen);</script>
-        <script
-          src="js/owl.carousel.min.js%2bisotope.pkgd.min.js%2bajax-form.js%2bwaypoints.min.js%2bjquery.counterup.min.js.pagespeed.jc.s9M9IEhPJu.js"></script>
-        <script>eval(mod_pagespeed_jG4BmLRudT);</script>
-        <script>eval(mod_pagespeed_UmJtFt2ANo);</script>
-        <script>eval(mod_pagespeed_jn_UX_ZmE1);</script>
-        <script>eval(mod_pagespeed_Dyv2zTIJeq);</script>
-        <script>eval(mod_pagespeed_XCOqhXIiJZ);</script>
-        <script
-          src="js/imagesloaded.pkgd.min.js%2bscrollIt.js%2bjquery.scrollUp.min.js%2bwow.min.js%2bnice-select.min.js%2bjquery.slicknav.min.js%2bjquery.magnific-popup.min.js%2bplugins.js%2bcontact.js%2bjquery.ajaxchimp.min.js.pag"></script>
-        <script>eval(mod_pagespeed_KI$jPWET83);</script>
-        <script>eval(mod_pagespeed_zw8pJd7bad);</script>
-        <script>eval(mod_pagespeed_n$NP8fq730);</script>
-        <script>eval(mod_pagespeed_p1u$EKABye);</script>
-        <script>eval(mod_pagespeed__gp2D4edNW);</script>
-        <script>eval(mod_pagespeed_tXfmJbNM_O);</script>
-        <script>eval(mod_pagespeed_3QhkDYibdG);</script>
-        <script>eval(mod_pagespeed_LcmyyIsCku);</script>
-
-        <script>eval(mod_pagespeed_2YC23hYHFS);</script>
-        <script>eval(mod_pagespeed_C7wAzhGWxz);</script>
-        <script
-          src="js/jquery.form.js%2bjquery.validate.min.js%2bmail-script.js%2bmain.js.pagespeed.jc.lG8brTmGg0.js"></script>
-        <script>eval(mod_pagespeed_rAc72dK4CC);</script>
-        <script>eval(mod_pagespeed_eEMagb_shM);</script>
-        <script>eval(mod_pagespeed_x_wJnbppy3);</script>
-        <script>eval(mod_pagespeed_QcC3XcZqe9);</script>
-
-        <script async
-          src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
-        <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-
-  gtag('config', 'UA-23581568-13');
-</script>
-        <script defer
-          src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"
-          integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="data-cf-beacon='{"
-          rayId" :" 6d4b2ab92ca231d0" ," token" :"
-          cd0b4b3a733644fc843ef0b185f98241"
-          ," version" :" 2021.12.0" ," si" :100}' crossorigin="anonymous"></script>
+        
       </body>
 
       <!-- Mirrored from preview.colorlib.com/theme/durg/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jan 2022 15:14:27 GMT -->
